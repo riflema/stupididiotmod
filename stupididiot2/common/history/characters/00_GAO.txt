@@ -1,0 +1,60 @@
+﻿CHARACTERS = {
+	c:GAO = {
+		create_character = {
+			first_name = "Mar-Arkana_Keita"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1817.4.1
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Nasr_Ouedraogo"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1796.3.25
+			traits = {
+				basic_defensive_strategist wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad"
+			last_name = "Sonni"
+			heir = yes
+			culture = cu:bambara
+			religion = rel:sunni
+			birth_date = 1825.5.7
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Mar-Arkana_Modibo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1807.1.5
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad_XI"
+			last_name = "Sonni"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:bambara
+			religion = rel:sunni
+			birth_date = 1801.10.31
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

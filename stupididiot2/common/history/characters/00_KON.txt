@@ -1,0 +1,65 @@
+﻿CHARACTERS = {
+	c:KON = {
+		create_character = {
+			first_name = "Aleixo_Shila"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1801.8.23
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Andre_Nguesso"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1781.12.28
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Vandana"
+			last_name = "Shila"
+			female = yes
+			culture = cu:bakongo
+			religion = rel:catholic
+			birth_date = 1793.11.2
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Garcia"
+			last_name = "Kuba"
+			heir = yes
+			culture = cu:bakongo
+			religion = rel:catholic
+			birth_date = 1817.8.6
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Garcia_VI"
+			last_name = "Kuba"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:bakongo
+			religion = rel:catholic
+			birth_date = 1800.1.12
+			traits = {
+				basic_colonial_administrator experienced_offensive_planner hedonist meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

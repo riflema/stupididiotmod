@@ -1,0 +1,75 @@
+﻿CHARACTERS = {
+	c:MAD = {
+		create_character = {
+			first_name = "Andriamasinavalona_Mwafulirwa"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1804.10.18
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ranavalona"
+			last_name = "Lukeni"
+			female = yes
+			culture = cu:shona
+			religion = rel:animist
+			birth_date = 1813.9.14
+			traits = {
+				bigoted experienced_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Andriananjavonana"
+			last_name = "Mwenemutapa"
+			heir = yes
+			culture = cu:shona
+			religion = rel:animist
+			birth_date = 1830.11.15
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Andriananjavonana_VI"
+			last_name = "Mwenemutapa"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:shona
+			religion = rel:animist
+			birth_date = 1806.11.26
+			traits = {
+				arrogant basic_defensive_strategist basic_diplomat cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Andriamanelo_Mwale"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1780.1.27
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Andrianampoinimerina_Karonga"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1772.2.2
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,192 @@
+﻿CHARACTERS = {
+	c:BHT = {
+		create_character = {
+			first_name = "Chaitanya_Padmesh"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1814.3.29
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Sriranga_Chatterji"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.11.2
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Devilal_Ra_ana"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.5.31
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Pranet_Bhutto"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1810.7.4
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Gunda_Musharif"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1796.7.2
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Sriranga"
+			last_name = "Sangama"
+			heir = yes
+			culture = cu:kannada
+			religion = rel:hindu
+			birth_date = 1830.11.27
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Vira_Vijaya_Bukka_Musharif"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1799.12.23
+			traits = {
+				trench_rat 
+			}
+		}
+
+		create_character = {
+			first_name = "Purandaradasa_Hussein"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1797.1.28
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Narasimha_Nazimuddin"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1809.8.6
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Viranarasimha_Mayekar"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1812.10.2
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Gunda_Dasari"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1806.8.14
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Sadashiva_Malini"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.7.18
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Devilal_Hussein"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1782.11.10
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Budhil_Sinan"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.11.1
+		}
+
+		create_character = {
+			first_name = "Kanchana"
+			last_name = "Chalukya"
+			female = yes
+			culture = cu:kannada
+			religion = rel:hindu
+			birth_date = 1797.9.19
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Sriranga_VII"
+			last_name = "Sangama"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_4
+			culture = cu:kannada
+			religion = rel:hindu
+			birth_date = 1797.7.25
+			traits = {
+				charismatic expert_political_operator explorer persistent 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Vira_Vijaya_Bukka_Lodi"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1782.1.31
+			traits = {
+				expert_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Devilal_Lohia"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1779.1.11
+			traits = {
+				experienced_defensive_strategist 
+			}
+		}
+
+	}
+}

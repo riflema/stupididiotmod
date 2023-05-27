@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:LND = {
+		create_character = {
+			first_name = "Mukaz_Waranankong_Ndembu"
+			ruler = yes
+			culture = cu:lunda
+			religion = rel:sunni
+			birth_date = 1802.9.2
+			traits = {
+				reckless 
+			}
+		}
+
+		create_character = {
+			first_name = "Mulaj_a_Namwan_Kazembe"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.8.3
+			traits = {
+				bigoted stalwart_defender 
+			}
+		}
+
+	}
+}

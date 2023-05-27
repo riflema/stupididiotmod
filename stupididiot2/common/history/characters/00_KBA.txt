@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:KBA = {
+		create_character = {
+			first_name = "Koto_Mboke_Kete"
+			ruler = yes
+			culture = cu:mongo
+			religion = rel:catholic
+			birth_date = 1768.11.12
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

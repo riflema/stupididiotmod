@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:BOR = {
+		create_character = {
+			first_name = "Salih_Nahor"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.2.10
+			traits = {
+				basic_defensive_strategist brave 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad"
+			last_name = "Sonni"
+			heir = yes
+			culture = cu:bambara
+			religion = rel:sunni
+			birth_date = 1807.3.25
+			traits = {
+				experienced_diplomat meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Abegi"
+			last_name = "Kanu"
+			female = yes
+			culture = cu:ibo
+			religion = rel:sunni
+			birth_date = 1807.5.20
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad_III"
+			last_name = "Kanu"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:ibo
+			religion = rel:sunni
+			birth_date = 1800.11.23
+			traits = {
+				meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

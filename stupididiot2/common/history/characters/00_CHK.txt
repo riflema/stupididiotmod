@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:CHK = {
+		create_character = {
+			first_name = "Chinguli_III"
+			last_name = "Kikondja"
+			ruler = yes
+			culture = cu:luba
+			religion = rel:sunni
+			birth_date = 1752.11.27
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+	}
+}

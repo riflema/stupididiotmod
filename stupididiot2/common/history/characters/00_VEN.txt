@@ -1,0 +1,66 @@
+﻿CHARACTERS = {
+	c:VEN = {
+		create_character = {
+			first_name = "Antonio_Pezzini"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.2.14
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Pietro_Cornaro"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:north_italian
+			religion = rel:protestant
+			birth_date = 1762.10.15
+			traits = {
+				experienced_political_operator hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Ottavio_Cornaro"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1803.8.30
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Jacopo_Quirini"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.10.11
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Carlo_Marcello"
+			is_admiral = yes
+			birth_date = 1794.3.20
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Bertucci_Lando"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1774.10.25
+			traits = {
+				bigoted resupply_commander 
+			}
+		}
+
+	}
+}

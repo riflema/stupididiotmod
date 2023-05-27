@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X77 = {
+		create_character = {
+			first_name = "Horatio_I"
+			last_name = "Stafford"
+			ruler = yes
+			culture = cu:irish
+			religion = rel:protestant
+			birth_date = 1812.1.22
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

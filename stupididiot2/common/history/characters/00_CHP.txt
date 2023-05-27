@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:CHP = {
+		create_character = {
+			first_name = "Nang_Keo_Phimpha"
+			last_name = "Phuan"
+			female = yes
+			culture = cu:lao
+			religion = rel:theravada
+			birth_date = 1786.7.29
+			traits = {
+				basic_colonial_administrator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Tian_Thala"
+			last_name = "Phuan"
+			heir = yes
+			culture = cu:lao
+			religion = rel:theravada
+			birth_date = 1810.7.13
+			traits = {
+				basic_political_operator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Fa_Ngum_VI"
+			last_name = "Phuan"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:lao
+			religion = rel:theravada
+			birth_date = 1792.11.7
+			traits = {
+				ambitious basic_political_operator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

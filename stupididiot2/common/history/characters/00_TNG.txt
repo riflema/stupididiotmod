@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:TNG = {
+		create_character = {
+			first_name = "Akamu"
+			last_name = "Tu_i_Tonga"
+			heir = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1821.1.7
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Alohilani_I"
+			last_name = "Tu_i_Tonga"
+			ruler = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1798.3.12
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Keoni_Malo"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1765.11.26
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X27 = {
+		create_character = {
+			first_name = "Juan_de_Requesens"
+			ruler = yes
+			culture = cu:mexican
+			religion = rel:sikh
+			birth_date = 1779.12.27
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

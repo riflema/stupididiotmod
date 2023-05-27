@@ -1,0 +1,75 @@
+﻿CHARACTERS = {
+	c:EGY = {
+		create_character = {
+			first_name = "Khusqadam_Inal"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1797.10.4
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Nizar_Kansur"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.10.30
+			traits = {
+				meticulous stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "al-Hasan_Aybak"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1799.6.4
+			traits = {
+				meticulous trench_rat 
+			}
+		}
+
+		create_character = {
+			first_name = "Sha_ban_III"
+			last_name = "Qitas"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_4
+			culture = cu:circassian
+			religion = rel:sunni
+			birth_date = 1778.1.26
+			traits = {
+				basic_political_operator experienced_defensive_strategist reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Shaik_al-Mahmudi_Sayfuddin"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1785.10.15
+			traits = {
+				direct surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Salih_Bugha"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.11.4
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Khusqadam_Baibars"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1777.11.7
+		}
+
+	}
+}

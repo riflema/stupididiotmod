@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:LOM = {
+		create_character = {
+			first_name = "Caterina"
+			last_name = "Senni"
+			female = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1794.5.4
+			traits = {
+				experienced_diplomat reckless 
+			}
+		}
+
+		create_character = {
+			first_name = "Filippo_Maria"
+			last_name = "Hagleitner"
+			heir = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1821.6.6
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Gian_Galeazzo_III"
+			last_name = "Hagleitner"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1789.10.5
+			traits = {
+				basic_diplomat imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}
