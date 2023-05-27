@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:KNG = {
+		create_character = {
+			first_name = "Afera_Kuma_Zakari"
+			ruler = yes
+			culture = cu:dyula
+			religion = rel:animist
+			birth_date = 1767.2.2
+			traits = {
+				experienced_political_operator hedonist 
+			}
+		}
+
+	}
+}

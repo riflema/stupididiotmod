@@ -1,0 +1,188 @@
+﻿DIPLOMACY = {
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X71
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X72
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X73
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X74
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X75
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X76
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X77
+			type = puppet
+		}
+	}
+	c:IRE = {
+		create_diplomatic_pact = {
+			country = c:X78
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X18
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X19
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X21
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:DOM
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X20
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X22
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X23
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X24
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X26
+			type = puppet
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X27
+			type = puppet
+		}
+	}
+	c:EGY = {
+		create_diplomatic_pact = {
+			country = c:X25
+			type = puppet
+		}
+	}
+	c:KON = {
+		create_diplomatic_pact = {
+			country = c:YKA
+			type = puppet
+		}
+	}
+	c:KON = {
+		create_diplomatic_pact = {
+			country = c:LND
+			type = puppet
+		}
+	}
+	c:SIA = {
+		create_diplomatic_pact = {
+			country = c:CHP
+			type = protectorate
+		}
+	}
+	c:MCH = {
+		create_diplomatic_pact = {
+			country = c:X36
+			type = protectorate
+		}
+	}
+	c:W93 = {
+		create_diplomatic_pact = {
+			country = c:W73
+			type = protectorate
+		}
+	}
+	c:W93 = {
+		create_diplomatic_pact = {
+			country = c:X60
+			type = protectorate
+		}
+	}
+	c:W93 = {
+		create_diplomatic_pact = {
+			country = c:W20
+			type = protectorate
+		}
+	}
+	c:W49 = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = protectorate
+		}
+	}
+	c:EGY = {
+		create_diplomatic_pact = {
+			country = c:W94
+			type = dominion
+		}
+	}
+	c:EGY = {
+		create_diplomatic_pact = {
+			country = c:W95
+			type = dominion
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:W96
+			type = dominion
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:W97
+			type = dominion
+		}
+	}
+}

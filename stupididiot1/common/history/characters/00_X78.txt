@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X78 = {
+		create_character = {
+			first_name = "Fulk_I"
+			last_name = "Courtenay"
+			ruler = yes
+			culture = cu:irish
+			religion = rel:protestant
+			birth_date = 1815.1.22
+			traits = {
+				experienced_colonial_administrator hedonist 
+			}
+		}
+
+	}
+}

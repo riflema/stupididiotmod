@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:BRU = {
+		create_character = {
+			first_name = "Muhammad_VIII"
+			last_name = "Bolkiah"
+			ruler = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1745.12.21
+			traits = {
+				basic_political_operator charismatic 
+			}
+		}
+
+	}
+}

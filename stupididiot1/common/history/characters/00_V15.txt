@@ -1,0 +1,76 @@
+﻿CHARACTERS = {
+	c:V15 = {
+		create_character = {
+			first_name = "Dombo_Chinkura_Kagona"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.3.20
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Chiraramuro_Tembo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1789.9.26
+		}
+
+		create_character = {
+			first_name = "Mbire"
+			last_name = "Mwenemutapa"
+			heir = yes
+			culture = cu:shona
+			religion = rel:animist
+			birth_date = 1823.7.17
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Chombo_Rise"
+			is_admiral = yes
+			birth_date = 1797.6.19
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Mbire_VI"
+			last_name = "Mwenemutapa"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:shona
+			religion = rel:animist
+			birth_date = 1807.6.21
+			traits = {
+				charismatic experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Changamire_Mutasa"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.5.21
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Nyarumwe_Mutasa"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1786.2.20
+			traits = {
+				meticulous resupply_commander 
+			}
+		}
+
+	}
+}

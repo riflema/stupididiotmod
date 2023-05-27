@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLH = {
+		create_character = {
+			first_name = "Hasan_Bozdar"
+			ruler = yes
+			culture = cu:baluchi
+			religion = rel:sunni
+			birth_date = 1792.2.2
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+		}
+
+	}
+}

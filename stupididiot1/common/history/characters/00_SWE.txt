@@ -1,0 +1,89 @@
+﻿CHARACTERS = {
+	c:SWE = {
+		create_character = {
+			first_name = "Fredrik_August_af_Gennas"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1801.1.18
+		}
+
+		create_character = {
+			first_name = "Sigvard_Eriksson"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1796.9.30
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Christoph_Bagge"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1806.6.7
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Anna"
+			last_name = "Gadda"
+			female = yes
+			culture = cu:tatar
+			religion = rel:protestant
+			birth_date = 1802.2.17
+			traits = {
+				tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl"
+			last_name = "Rurikovich"
+			heir = yes
+			culture = cu:swedish
+			religion = rel:protestant
+			birth_date = 1820.2.1
+			traits = {
+				basic_political_operator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl_XV"
+			last_name = "Rurikovich"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:tatar
+			religion = rel:protestant
+			birth_date = 1803.12.11
+			traits = {
+				basic_political_operator cruel resupply_commander 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Erik_Ribbing"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1779.3.12
+			traits = {
+				experienced_offensive_planner persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Christian_Cronstedt"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.3.21
+		}
+
+	}
+}

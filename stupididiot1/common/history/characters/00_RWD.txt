@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:RWD = {
+		create_character = {
+			first_name = "Nyirarukangaga"
+			last_name = "Waha"
+			female = yes
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1786.12.15
+			traits = {
+				ambitious basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Kigeli"
+			last_name = "Abarihira"
+			heir = yes
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1809.4.24
+			traits = {
+				basic_colonial_administrator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Yuhi_III"
+			last_name = "Abarihira"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1794.4.24
+			traits = {
+				tactful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

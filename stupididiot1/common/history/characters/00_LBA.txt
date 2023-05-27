@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:LBA = {
+		create_character = {
+			first_name = "Kongolo_Maniema_I"
+			last_name = "Luba"
+			ruler = yes
+			culture = cu:luba
+			religion = rel:animist
+			birth_date = 1470.12.8
+			traits = {
+				basic_diplomat hedonist 
+			}
+		}
+
+	}
+}

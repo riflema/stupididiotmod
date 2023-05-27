@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:MCH = {
+		create_character = {
+			first_name = "Zhongchun_Rao"
+			ruler = yes
+			culture = cu:manchu
+			religion = rel:mahayana
+			birth_date = 1793.1.4
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Dudu_Mengtemu_Wei"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1774.9.4
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "USaku_Usujan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1774.8.8
+			traits = {
+				charismatic stalwart_defender 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X96 = {
+		create_character = {
+			first_name = "Husayn_Haftlang"
+			ruler = yes
+			culture = cu:persian
+			religion = rel:sunni
+			birth_date = 1801.2.2
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}

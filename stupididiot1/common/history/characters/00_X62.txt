@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:X62 = {
+		create_character = {
+			first_name = "al-Kamil"
+			last_name = "Feyli"
+			heir = yes
+			culture = cu:kurdish
+			religion = rel:sunni
+			birth_date = 1832.11.13
+		}
+
+		create_character = {
+			first_name = "Sha_ban_I"
+			last_name = "Feyli"
+			ruler = yes
+			culture = cu:kurdish
+			religion = rel:sunni
+			birth_date = 1801.4.25
+			traits = {
+				experienced_political_operator tactful 
+			}
+		}
+
+	}
+}

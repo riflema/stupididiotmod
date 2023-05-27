@@ -1,0 +1,94 @@
+﻿CHARACTERS = {
+	c:W30 = {
+		create_character = {
+			first_name = "Svetlana"
+			last_name = "Buzhansky"
+			female = yes
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1787.11.28
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Vasiliy"
+			last_name = "Rurikovich"
+			heir = yes
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1821.10.23
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Ivan_VI"
+			last_name = "Rurikovich"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1806.10.23
+			traits = {
+				cruel resupply_commander 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Makariy_Barclay_de_Tolly"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1791.11.29
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Onisim_Golitzin"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.10.5
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Radomir_Bagration"
+			is_admiral = yes
+			birth_date = 1785.8.7
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Andrei_Apraksin"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1792.7.7
+			traits = {
+				cautious stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Dmitriy_Sjeremetjev"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1765.3.12
+			traits = {
+				resupply_commander 
+			}
+		}
+
+	}
+}

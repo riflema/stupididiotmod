@@ -1,0 +1,206 @@
+﻿CHARACTERS = {
+	c:IRE = {
+		create_character = {
+			first_name = "Niall_Hare"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1813.3.20
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Muchadh_I"
+			last_name = "d_Escoubleau"
+			ruler = yes
+			culture = cu:irish
+			religion = rel:protestant
+			birth_date = 1815.3.16
+			traits = {
+				experienced_colonial_administrator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Henri_de_Rochechouart"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1810.3.11
+			traits = {
+				explorer scarred 
+			}
+		}
+
+		create_character = {
+			first_name = "Xavier_des_Ecures"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1810.5.28
+			traits = {
+				bigoted expert_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Josquin_des_Coulons"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1804.5.27
+			traits = {
+				cruel surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Josquin_des_Coulons"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1807.2.19
+			traits = {
+				bigoted expert_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Michel_de_Luynes"
+			is_general = yes
+			commander_rank = commander_rank_5
+			birth_date = 1805.2.5
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Barthelemy_de_Saint-Chamond"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1788.7.6
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Joseph_de_Vibien"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1790.12.9
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Xavier_de_Treville"
+			is_general = yes
+			commander_rank = commander_rank_5
+			birth_date = 1794.3.27
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Jean-Antoine_de_La_Barthe"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1809.3.1
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Raoul_du_Bosquet"
+			is_general = yes
+			commander_rank = commander_rank_5
+			birth_date = 1796.2.22
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Simon_de_Castaing"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.1.9
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Jean-Antoine_de_Saint-Omer"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.1.19
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis_de_Bethune"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1800.1.28
+			traits = {
+				experienced_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Francois_de_Bonneuil"
+			is_general = yes
+			commander_rank = commander_rank_5
+			birth_date = 1780.9.4
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Maximilien_d_Usson"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1783.11.17
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Pascal_de_Treville"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1774.6.13
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Joseph_de_Saint-Omer"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1773.4.11
+			traits = {
+				basic_artillery_commander cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Sebastien_de_Tocqueville"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1771.4.26
+			traits = {
+				basic_defensive_strategist charismatic 
+			}
+		}
+
+	}
+}

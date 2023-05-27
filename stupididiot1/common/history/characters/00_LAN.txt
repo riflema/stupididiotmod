@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:LAN = {
+		create_character = {
+			first_name = "Zhi_Sun"
+			ruler = yes
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1784.1.18
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Qiyu_Xie"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1802.11.2
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Song_Xu"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1779.3.17
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+	}
+}

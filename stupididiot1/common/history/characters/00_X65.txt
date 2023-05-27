@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:X65 = {
+		create_character = {
+			first_name = "Tinatin"
+			last_name = "Machabeli"
+			female = yes
+			culture = cu:georgian
+			religion = rel:oriental_orthodox
+			birth_date = 1778.1.18
+			traits = {
+				basic_diplomat meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Bagrat"
+			last_name = "Kherkheulidze"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:georgian
+			religion = rel:oriental_orthodox
+			birth_date = 1801.4.13
+			traits = {
+				basic_offensive_planner basic_political_operator cruel persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Bagrat_VI"
+			last_name = "Kherkheulidze"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:georgian
+			religion = rel:oriental_orthodox
+			birth_date = 1786.4.13
+			traits = {
+				basic_political_operator charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}
