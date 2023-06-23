@@ -4136,7 +4136,7 @@ MON = {
 
 MOR = {
 	color = { 191 110 62 }
-	country_type = unrecognized
+	country_type = recognized
 	tier = kingdom
 	cultures = { maghrebi }
 	religion = sunni
