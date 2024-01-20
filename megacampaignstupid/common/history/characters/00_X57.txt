@@ -1,0 +1,89 @@
+﻿CHARACTERS = {
+	c:X57 = {
+		create_character = {
+			first_name = "Bahar"
+			last_name = "Lodi"
+			female = yes
+			culture = cu:uzbek
+			religion = rel:sunni
+			birth_date = 1807.4.19
+			traits = {
+				ambitious experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat"
+			last_name = "Tughluq"
+			heir = yes
+			culture = cu:uzbek
+			religion = rel:sunni
+			birth_date = 1830.10.28
+			traits = {
+				experienced_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat_X"
+			last_name = "Tughluq"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:uzbek
+			religion = rel:sunni
+			birth_date = 1800.4.1
+			traits = {
+				imposing 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Mohammed_Shah_Lodi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1811.7.17
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Ibrahim_Musharif"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1801.10.31
+			traits = {
+				basic_defensive_strategist meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Bismillah_Singh"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1785.7.24
+		}
+
+		create_character = {
+			first_name = "Alauddin_Singh"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1788.7.17
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat_Azad"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.7.29
+		}
+
+	}
+}

@@ -1,0 +1,54 @@
+﻿CHARACTERS = {
+	c:SCO = {
+		create_character = {
+			first_name = "Fraser_Selkirk"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1807.10.15
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Alan_Gordon"
+			ruler = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1783.12.6
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Duncan_Forbes"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1806.5.17
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Ailpein_Duncan"
+			is_admiral = yes
+			birth_date = 1793.8.25
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Walter_Kerr"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1767.3.29
+			traits = {
+				surveyor 
+			}
+		}
+
+	}
+}

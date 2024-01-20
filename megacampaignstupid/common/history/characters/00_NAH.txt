@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:NAH = {
+		create_character = {
+			first_name = "Acamapichtli_Temilotecatl"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1795.4.21
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Tlotzin_Huestzin"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.5.28
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Tehuetstiquitzin"
+			last_name = "Icpalli"
+			heir = yes
+			culture = cu:nahua
+			religion = rel:catholic
+			birth_date = 1785.4.7
+			traits = {
+				ambitious experienced_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Tizoc_II"
+			last_name = "Icpalli"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:nahua
+			religion = rel:catholic
+			birth_date = 1765.12.3
+			traits = {
+				basic_political_operator imperious 
+			}
+		}
+
+	}
+}

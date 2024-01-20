@@ -1,0 +1,33 @@
+﻿CHARACTERS = {
+	c:PEU = {
+		create_character = {
+			first_name = "Gwijde_III"
+			last_name = "van_Oranje"
+			ruler = yes
+			culture = cu:neo-peru_colony-flemish
+			religion = rel:protestant
+			birth_date = 1811.10.8
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Christoffel_Van_Renesse"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.5.9
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Filips_Van_Renesse"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1775.2.20
+		}
+
+	}
+}

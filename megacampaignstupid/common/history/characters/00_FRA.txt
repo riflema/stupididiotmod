@@ -1,0 +1,125 @@
+﻿CHARACTERS = {
+	c:FRA = {
+		create_character = {
+			first_name = "Francois_de_Chambronne"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1809.9.14
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Jacques_du_Bosquet"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.9.7
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Maximilien_de_La_Galissoniere"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1805.5.3
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Adelaide"
+			last_name = "de_Valois"
+			female = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1806.3.31
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis-Francois"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1826.5.11
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis_XXII"
+			last_name = "de_Valois"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1805.11.23
+			traits = {
+				experienced_diplomat resupply_commander wrathful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Alexandre_de_La_Motte_d_Airan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1782.11.6
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Jean-Jacques_de_Saint-Germain"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.5.6
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Guy_de_Marguerye"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1774.6.20
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Joachim_de_Marguerye"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1771.12.26
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Gaston_d_Estrees"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1776.8.10
+			traits = {
+				persistent 
+			}
+		}
+
+	}
+}

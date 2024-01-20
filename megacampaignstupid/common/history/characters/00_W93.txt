@@ -1,0 +1,54 @@
+﻿CHARACTERS = {
+	c:W93 = {
+		create_character = {
+			first_name = "Surah_Palinyal"
+			last_name = "Ilyas_Shahi"
+			heir = yes
+			female = yes
+			culture = cu:tibetan
+			religion = rel:gelugpa
+			birth_date = 1829.12.19
+			traits = {
+				basic_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Sangye_Gyantesen_Pal_Zangpo_Snang"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1796.8.21
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Surah_Palinyal"
+			last_name = "Mgus"
+			female = yes
+			culture = cu:bengali
+			religion = rel:gelugpa
+			birth_date = 1792.7.7
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gusri_I"
+			last_name = "Ilyas_Shahi"
+			ruler = yes
+			culture = cu:bengali
+			religion = rel:gelugpa
+			birth_date = 1808.12.4
+			traits = {
+				basic_political_operator hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

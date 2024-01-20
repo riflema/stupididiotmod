@@ -1,0 +1,30 @@
+﻿CHARACTERS = {
+	c:TUN = {
+		create_character = {
+			first_name = "Muhammad"
+			last_name = "al-Qazdughli"
+			heir = yes
+			culture = cu:bedouin
+			religion = rel:sunni
+			birth_date = 1806.6.5
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad_XI"
+			last_name = "al-Qazdughli"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:bedouin
+			religion = rel:sunni
+			birth_date = 1779.9.28
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+		}
+
+	}
+}

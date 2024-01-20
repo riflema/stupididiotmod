@@ -1,0 +1,64 @@
+﻿CHARACTERS = {
+	c:NET = {
+		create_character = {
+			first_name = "Friedrich_Christian_Elsner"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1808.5.19
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl_Meyer"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1805.4.29
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Franz_Walther"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1796.11.25
+			traits = {
+				ambitious experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_Christian_Kammel"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1799.3.11
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Johann_Leopold_Feil"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.9.15
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Wilhelm_Friedrich_von_Vitzgau"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1778.6.25
+		}
+
+	}
+}

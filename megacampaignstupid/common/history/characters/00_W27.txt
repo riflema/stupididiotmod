@@ -1,0 +1,49 @@
+﻿CHARACTERS = {
+	c:W27 = {
+		create_character = {
+			first_name = "Isimeli_Josevata"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1788.11.18
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Voreqe_Caucau"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.5.26
+			traits = {
+				bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Adi"
+			last_name = "Bambang"
+			heir = yes
+			culture = cu:melanesian
+			religion = rel:animist
+			birth_date = 1810.4.29
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Elenoa_I"
+			last_name = "Bambang"
+			ruler = yes
+			female = yes
+			culture = cu:melanesian
+			religion = rel:animist
+			birth_date = 1795.4.29
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

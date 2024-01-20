@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:X98 = {
+		create_character = {
+			first_name = "Alauddin_Riayat_Shah"
+			last_name = "Selangor"
+			heir = yes
+			culture = cu:malay
+			religion = rel:sunni
+			birth_date = 1785.6.4
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Mahmud_Shah_II"
+			last_name = "Selangor"
+			ruler = yes
+			culture = cu:malay
+			religion = rel:sunni
+			birth_date = 1764.3.23
+			traits = {
+				basic_diplomat pious 
+			}
+		}
+
+	}
+}

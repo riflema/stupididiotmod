@@ -1,0 +1,101 @@
+﻿CHARACTERS = {
+	c:PER = {
+		create_character = {
+			first_name = "Farajollah_Azizi"
+			is_admiral = yes
+			birth_date = 1810.3.14
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Ja_far_Sabiri"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.11.25
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Joneid"
+			last_name = "Timurid"
+			heir = yes
+			culture = cu:persian
+			religion = rel:shiite
+			birth_date = 1829.10.15
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "_Adel_Shah_Shahy"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1786.5.1
+			traits = {
+				basic_defensive_strategist cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Abu_l_Fath_Jalili"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1801.12.31
+			traits = {
+				basic_defensive_strategist charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Maryam"
+			last_name = "Zahedi"
+			female = yes
+			culture = cu:uzbek
+			religion = rel:shiite
+			birth_date = 1787.5.29
+			traits = {
+				cautious expert_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Joneid_V"
+			last_name = "Timurid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:uzbek
+			religion = rel:shiite
+			birth_date = 1795.5.12
+			traits = {
+				experienced_political_operator innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Nader_Mirza_Shahy"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1768.6.1
+		}
+
+		create_character = {
+			first_name = "Mohammad_Kodabanda_Qazai"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.4.1
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

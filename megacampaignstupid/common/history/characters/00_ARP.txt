@@ -1,0 +1,14 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Napesa_Chiluckittequaw"
+			ruler = yes
+			culture = cu:algonquian
+			birth_date = 1627.7.14
+			traits = {
+				basic_political_operator reserved 
+			}
+		}
+
+	}
+}

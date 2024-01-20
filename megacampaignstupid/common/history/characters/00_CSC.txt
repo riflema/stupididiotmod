@@ -1,0 +1,22 @@
+﻿CHARACTERS = {
+	c:CSC = {
+		create_character = {
+			first_name = "Andries_Van_Leeuwergem"
+			ruler = yes
+			culture = cu:flemish
+			religion = rel:protestant
+			birth_date = 1795.3.9
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Robrecht_Van_Renesse"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1805.1.8
+		}
+
+	}
+}

@@ -1,0 +1,103 @@
+﻿CHARACTERS = {
+	c:X15 = {
+		create_character = {
+			first_name = "Shihab-ud-Din_Bayazid"
+			last_name = "Ilyas_Shahi"
+			heir = yes
+			culture = cu:bengali
+			religion = rel:sunni
+			birth_date = 1822.9.13
+			traits = {
+				basic_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Ghiyasuddin_Sen"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1799.12.29
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Farid_Saraswoti"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1802.3.24
+		}
+
+		create_character = {
+			first_name = "Sulayman_Chodhury"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.12.12
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Jalaluddin_Mohammed_Mukerjhee"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1800.7.1
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Fateh_Shaikh"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.4.29
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Mir_Qasim__Ali_Mukerjhee"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1807.12.31
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Malika_Bibi"
+			last_name = "Sur"
+			female = yes
+			culture = cu:bengali
+			religion = rel:sunni
+			birth_date = 1787.1.22
+			traits = {
+				expert_political_operator honorable 
+			}
+		}
+
+		create_character = {
+			first_name = "Shams-ud-Din_Muhammad_I"
+			last_name = "Ilyas_Shahi"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			interest_group = ig_industrialists
+			culture = cu:bengali
+			religion = rel:sunni
+			birth_date = 1798.5.11
+			traits = {
+				basic_colonial_administrator reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

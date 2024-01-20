@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:CHI = {
+		create_character = {
+			first_name = "Suzhen"
+			last_name = "Xiao"
+			female = yes
+			culture = cu:filipino
+			religion = rel:animist
+			birth_date = 1771.3.27
+			traits = {
+				basic_colonial_administrator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Zhanji"
+			last_name = "Fei"
+			heir = yes
+			culture = cu:han
+			religion = rel:animist
+			birth_date = 1794.11.21
+			traits = {
+				bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Xuntan_I"
+			last_name = "Fei"
+			ruler = yes
+			culture = cu:filipino
+			religion = rel:animist
+			birth_date = 1773.6.1
+			traits = {
+				experienced_political_operator romantic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

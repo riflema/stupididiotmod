@@ -1,0 +1,602 @@
+﻿DIPLOMACY = {
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:PLC
+			type = defensive_pact
+		}
+	}
+	c:PLC = {
+		create_diplomatic_pact = {
+			country = c:SCA
+			type = defensive_pact
+		}
+	}
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:W80
+			type = defensive_pact
+		}
+	}
+	c:W80 = {
+		create_diplomatic_pact = {
+			country = c:SCA
+			type = defensive_pact
+		}
+	}
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:X84
+			type = defensive_pact
+		}
+	}
+	c:X84 = {
+		create_diplomatic_pact = {
+			country = c:SCA
+			type = defensive_pact
+		}
+	}
+	c:BYZ = {
+		create_diplomatic_pact = {
+			country = c:RUS
+			type = defensive_pact
+		}
+	}
+	c:ENG = {
+		create_diplomatic_pact = {
+			country = c:W78
+			type = defensive_pact
+		}
+	}
+	c:W78 = {
+		create_diplomatic_pact = {
+			country = c:ENG
+			type = defensive_pact
+		}
+	}
+	c:ENG = {
+		create_diplomatic_pact = {
+			country = c:X16
+			type = defensive_pact
+		}
+	}
+	c:X16 = {
+		create_diplomatic_pact = {
+			country = c:ENG
+			type = defensive_pact
+		}
+	}
+	c:SCO = {
+		create_diplomatic_pact = {
+			country = c:FRA
+			type = defensive_pact
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:SCO
+			type = defensive_pact
+		}
+	}
+	c:CLM = {
+		create_diplomatic_pact = {
+			country = c:PEU
+			type = defensive_pact
+		}
+	}
+	c:PEU = {
+		create_diplomatic_pact = {
+			country = c:CLM
+			type = defensive_pact
+		}
+	}
+	c:USA = {
+		create_diplomatic_pact = {
+			country = c:FRA
+			type = defensive_pact
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:USA
+			type = defensive_pact
+		}
+	}
+	c:PLC = {
+		create_diplomatic_pact = {
+			country = c:X84
+			type = defensive_pact
+		}
+	}
+	c:X84 = {
+		create_diplomatic_pact = {
+			country = c:PLC
+			type = defensive_pact
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:W28
+			type = defensive_pact
+		}
+	}
+	c:W28 = {
+		create_diplomatic_pact = {
+			country = c:FRA
+			type = defensive_pact
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:V20
+			type = defensive_pact
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:TUN
+			type = defensive_pact
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = defensive_pact
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:POR
+			type = defensive_pact
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:ENG
+			type = defensive_pact
+		}
+	}
+	c:FLA = {
+		create_diplomatic_pact = {
+			country = c:SCO
+			type = defensive_pact
+		}
+	}
+	c:SCO = {
+		create_diplomatic_pact = {
+			country = c:FLA
+			type = defensive_pact
+		}
+	}
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:POR
+			type = defensive_pact
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:ETH
+			type = defensive_pact
+		}
+	}
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = defensive_pact
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:ETH
+			type = defensive_pact
+		}
+	}
+	c:BRU = {
+		create_diplomatic_pact = {
+			country = c:X82
+			type = defensive_pact
+		}
+	}
+	c:X82 = {
+		create_diplomatic_pact = {
+			country = c:BRU
+			type = defensive_pact
+		}
+	}
+	c:JAP = {
+		create_diplomatic_pact = {
+			country = c:KOR
+			type = defensive_pact
+		}
+	}
+	c:KOR = {
+		create_diplomatic_pact = {
+			country = c:JAP
+			type = defensive_pact
+		}
+	}
+	c:M15 = {
+		create_diplomatic_pact = {
+			country = c:FLA
+			type = defensive_pact
+		}
+	}
+	c:W77 = {
+		create_diplomatic_pact = {
+			country = c:ENG
+			type = defensive_pact
+		}
+	}
+	c:ENG = {
+		create_diplomatic_pact = {
+			country = c:W77
+			type = defensive_pact
+		}
+	}
+	c:W77 = {
+		create_diplomatic_pact = {
+			country = c:BRU
+			type = defensive_pact
+		}
+	}
+	c:BRU = {
+		create_diplomatic_pact = {
+			country = c:W77
+			type = defensive_pact
+		}
+	}
+	c:W77 = {
+		create_diplomatic_pact = {
+			country = c:X16
+			type = defensive_pact
+		}
+	}
+	c:X16 = {
+		create_diplomatic_pact = {
+			country = c:W77
+			type = defensive_pact
+		}
+	}
+	c:XIB = {
+		create_diplomatic_pact = {
+			country = c:KOR
+			type = defensive_pact
+		}
+	}
+	c:KOR = {
+		create_diplomatic_pact = {
+			country = c:XIB
+			type = defensive_pact
+		}
+	}
+	c:W93 = {
+		create_diplomatic_pact = {
+			country = c:W90
+			type = defensive_pact
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:W67
+			type = defensive_pact
+		}
+	}
+	c:W67 = {
+		create_diplomatic_pact = {
+			country = c:X15
+			type = defensive_pact
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:ENG
+			type = defensive_pact
+		}
+	}
+	c:ENG = {
+		create_diplomatic_pact = {
+			country = c:X15
+			type = defensive_pact
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:W93
+			type = defensive_pact
+		}
+	}
+	c:X57 = {
+		create_diplomatic_pact = {
+			country = c:HYD
+			type = defensive_pact
+		}
+	}
+	c:HYD = {
+		create_diplomatic_pact = {
+			country = c:X57
+			type = defensive_pact
+		}
+	}
+	c:X57 = {
+		create_diplomatic_pact = {
+			country = c:W68
+			type = defensive_pact
+		}
+	}
+	c:W68 = {
+		create_diplomatic_pact = {
+			country = c:X57
+			type = defensive_pact
+		}
+	}
+	c:X57 = {
+		create_diplomatic_pact = {
+			country = c:W41
+			type = defensive_pact
+		}
+	}
+	c:W41 = {
+		create_diplomatic_pact = {
+			country = c:X57
+			type = defensive_pact
+		}
+	}
+	c:X57 = {
+		create_diplomatic_pact = {
+			country = c:W50
+			type = defensive_pact
+		}
+	}
+	c:W50 = {
+		create_diplomatic_pact = {
+			country = c:X57
+			type = defensive_pact
+		}
+	}
+	c:HYD = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = defensive_pact
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:HYD
+			type = defensive_pact
+		}
+	}
+	c:X72 = {
+		create_diplomatic_pact = {
+			country = c:X15
+			type = defensive_pact
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:X72
+			type = defensive_pact
+		}
+	}
+	c:W50 = {
+		create_diplomatic_pact = {
+			country = c:HYD
+			type = defensive_pact
+		}
+	}
+	c:HYD = {
+		create_diplomatic_pact = {
+			country = c:W50
+			type = defensive_pact
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:POR
+			type = defensive_pact
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:LUB
+			type = defensive_pact
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:X85
+			type = defensive_pact
+		}
+	}
+	c:X85 = {
+		create_diplomatic_pact = {
+			country = c:LUB
+			type = defensive_pact
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:USA
+			type = defensive_pact
+		}
+	}
+	c:AIR = {
+		create_diplomatic_pact = {
+			country = c:V18
+			type = defensive_pact
+		}
+	}
+	c:V18 = {
+		create_diplomatic_pact = {
+			country = c:TUN
+			type = defensive_pact
+		}
+	}
+	c:W67 = {
+		create_diplomatic_pact = {
+			country = c:W78
+			type = defensive_pact
+		}
+	}
+	c:W78 = {
+		create_diplomatic_pact = {
+			country = c:W67
+			type = defensive_pact
+		}
+	}
+	c:W78 = {
+		create_diplomatic_pact = {
+			country = c:FRA
+			type = defensive_pact
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:W78
+			type = defensive_pact
+		}
+	}
+	c:X16 = {
+		create_diplomatic_pact = {
+			country = c:X82
+			type = defensive_pact
+		}
+	}
+	c:X82 = {
+		create_diplomatic_pact = {
+			country = c:X16
+			type = defensive_pact
+		}
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:W68
+			type = defensive_pact
+		}
+	}
+	c:W68 = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = defensive_pact
+		}
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:W78
+			type = defensive_pact
+		}
+	}
+	c:W78 = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = defensive_pact
+		}
+	}
+	c:X82 = {
+		create_diplomatic_pact = {
+			country = c:X98
+			type = defensive_pact
+		}
+	}
+	c:X98 = {
+		create_diplomatic_pact = {
+			country = c:X82
+			type = defensive_pact
+		}
+	}
+	c:X98 = {
+		create_diplomatic_pact = {
+			country = c:X15
+			type = defensive_pact
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:X98
+			type = defensive_pact
+		}
+	}
+	c:HAW = {
+		create_diplomatic_pact = {
+			country = c:X94
+			type = defensive_pact
+		}
+	}
+	c:HAW = {
+		create_diplomatic_pact = {
+			country = c:W58
+			type = defensive_pact
+		}
+	}
+	c:W72 = {
+		create_diplomatic_pact = {
+			country = c:TNG
+			type = defensive_pact
+		}
+	}
+	c:W94 = {
+		create_diplomatic_pact = {
+			country = c:TNG
+			type = defensive_pact
+		}
+	}
+	c:W95 = {
+		create_diplomatic_pact = {
+			country = c:W27
+			type = defensive_pact
+		}
+	}
+	c:X19 = {
+		create_diplomatic_pact = {
+			country = c:PLT
+			type = defensive_pact
+		}
+	}
+	c:PLT = {
+		create_diplomatic_pact = {
+			country = c:X19
+			type = defensive_pact
+		}
+	}
+	c:TEX = {
+		create_diplomatic_pact = {
+			country = c:CAL
+			type = defensive_pact
+		}
+	}
+	c:CAL = {
+		create_diplomatic_pact = {
+			country = c:TEX
+			type = defensive_pact
+		}
+	}
+	c:TEX = {
+		create_diplomatic_pact = {
+			country = c:NAH
+			type = defensive_pact
+		}
+	}
+	c:ELS = {
+		create_diplomatic_pact = {
+			country = c:NAH
+			type = defensive_pact
+		}
+	}
+	c:CAL = {
+		create_diplomatic_pact = {
+			country = c:NAH
+			type = defensive_pact
+		}
+	}
+	c:CAL = {
+		create_diplomatic_pact = {
+			country = c:X32
+			type = defensive_pact
+		}
+	}
+	c:X32 = {
+		create_diplomatic_pact = {
+			country = c:CAL
+			type = defensive_pact
+		}
+	}
+}

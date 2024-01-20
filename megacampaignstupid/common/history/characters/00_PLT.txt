@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:PLT = {
+		create_character = {
+			first_name = "Manuel_de_Magalhaes"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.11.15
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gaspar_Coelho"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			interest_group = ig_industrialists
+			culture = cu:neo-argentine_colony-portugese
+			religion = rel:catholic
+			birth_date = 1795.2.14
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_de_Braganca"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1792.10.30
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Alexandre_de_Azevedo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.1.22
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Francisco_de_Carvalho"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.8.27
+		}
+
+	}
+}

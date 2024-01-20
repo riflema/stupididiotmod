@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:TEX = {
+		create_character = {
+			first_name = "Francisco_de_Paula_de_Austria"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1813.8.15
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Sancho_Osorio"
+			ruler = yes
+			culture = cu:neo-texas_colony-castillian
+			religion = rel:catholic
+			birth_date = 1790.6.25
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Jose_Pimentel"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1767.11.22
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,109 @@
+﻿CHARACTERS = {
+	c:LUB = {
+		create_character = {
+			first_name = "Friedrich_I"
+			last_name = "von_Auerswald"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1782.3.22
+			traits = {
+				experienced_political_operator hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Valentin_Bastian"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1808.7.28
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Valentin_Bastian"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1798.10.17
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Fabian_Framhein"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1794.2.14
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Jurgen_Kellinghusen"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1789.5.20
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Aline_Amsinck"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			female = yes
+			birth_date = 1802.12.30
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Michelle_Muhl"
+			is_general = yes
+			commander_rank = commander_rank_3
+			female = yes
+			birth_date = 1792.9.5
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Joachim_Nestor_Uhlig"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1784.7.19
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Johann_Leopold_Meyer"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.10.10
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Elena_Lindner"
+			is_general = yes
+			commander_rank = commander_rank_4
+			female = yes
+			birth_date = 1770.12.1
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+	}
+}

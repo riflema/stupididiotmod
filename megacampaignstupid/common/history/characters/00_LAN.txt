@@ -1,0 +1,33 @@
+﻿CHARACTERS = {
+	c:LAN = {
+		create_character = {
+			first_name = "Song_Zhou"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1797.8.28
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Youyuan_Liang"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:hakka
+			religion = rel:mahayana
+			birth_date = 1774.12.1
+			traits = {
+				experienced_diplomat hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Chun_Ye"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.10.3
+		}
+
+	}
+}

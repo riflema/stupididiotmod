@@ -1,0 +1,34 @@
+﻿CHARACTERS = {
+	c:CAL = {
+		create_character = {
+			first_name = "Alonso_Coronado"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-usa_north_colony-castillian
+			religion = rel:catholic
+			birth_date = 1782.3.29
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Alonso_de_Mendoza"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.4.28
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Ramon_Fadrique_de_Toledo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.7.6
+		}
+
+	}
+}

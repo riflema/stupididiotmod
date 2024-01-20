@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:ELS = {
+		create_character = {
+			first_name = "Juan_Bautista_Fernandez_de_Castro"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.3.23
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_de_Aguirre"
+			ruler = yes
+			culture = cu:central_american
+			religion = rel:catholic
+			birth_date = 1776.9.24
+			traits = {
+				cautious expert_political_operator 
+			}
+		}
+
+	}
+}

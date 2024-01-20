@@ -1,0 +1,67 @@
+﻿CHARACTERS = {
+	c:FLA = {
+		create_character = {
+			first_name = "Karel_Van_Gulik"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1792.12.27
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Jacob_Van_Bellegem"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.9.1
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Mona_van_Wassenberg"
+			ruler = yes
+			culture = cu:flemish
+			religion = rel:protestant
+			birth_date = 1769.12.17
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Ludger_Van_Renesse"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1788.11.20
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Filips"
+			last_name = "van_Wassenaer"
+			heir = yes
+			culture = cu:flemish
+			religion = rel:protestant
+			birth_date = 1822.11.3
+			traits = {
+				experienced_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Hans_Van_Raveschoot"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1777.8.29
+			traits = {
+				explorer 
+			}
+		}
+
+	}
+}

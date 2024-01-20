@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X93 = {
+		create_character = {
+			first_name = "David_I"
+			last_name = "Anthemiotes"
+			ruler = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1815.1.2
+			traits = {
+				tactful 
+			}
+		}
+
+	}
+}

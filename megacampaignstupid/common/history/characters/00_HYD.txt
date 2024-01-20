@@ -1,0 +1,115 @@
+﻿CHARACTERS = {
+	c:HYD = {
+		create_character = {
+			first_name = "Nizam_ul-Mulk"
+			last_name = "Tughluq"
+			heir = yes
+			culture = cu:uzbek
+			religion = rel:shiite
+			birth_date = 1829.6.30
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Khusrau_Raya"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1811.11.8
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Sayid_Nasir_al-Din_Vasireddy"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1815.7.21
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Samiya"
+			last_name = "Saluva"
+			female = yes
+			culture = cu:uzbek
+			religion = rel:shiite
+			birth_date = 1804.1.6
+			traits = {
+				bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat_X"
+			last_name = "Tughluq"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:uzbek
+			religion = rel:shiite
+			birth_date = 1792.9.10
+			traits = {
+				basic_defensive_strategist experienced_diplomat romantic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Mir_Shams_al-Din_Raya"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1805.3.30
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Mullah_Qutb_al-Din_Qummi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1790.10.14
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Quli_Kadak"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1796.10.27
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Malik_Dawar"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.6.21
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Fulad_Khan_Bhaskar"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1775.2.18
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+	}
+}

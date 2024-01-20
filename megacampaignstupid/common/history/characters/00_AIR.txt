@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:AIR = {
+		create_character = {
+			first_name = "al-Amin"
+			last_name = "Dag_Rali"
+			heir = yes
+			culture = cu:tuareg
+			religion = rel:animist
+			birth_date = 1830.3.19
+			traits = {
+				experienced_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Chidi"
+			last_name = "Zakari"
+			female = yes
+			culture = cu:mossi
+			religion = rel:animist
+			birth_date = 1800.3.18
+			traits = {
+				cautious experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Agg-Abba_II"
+			last_name = "Dag_Rali"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:tuareg
+			religion = rel:animist
+			birth_date = 1790.3.2
+			traits = {
+				basic_political_operator imposing innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

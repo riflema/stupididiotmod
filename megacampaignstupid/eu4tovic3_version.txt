@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.3C "Craiova"
+* Compatible with EU4 [v1.35-v1.36] and Vic3 [v1.5]
+* Built on Thu Jan 18 13:21:39 2024
+************************** + EU4 To Vic3 + ***************************

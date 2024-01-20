@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:GUA = {
+		create_character = {
+			first_name = "Hagan_Imbeck"
+			ruler = yes
+			culture = cu:weder_german
+			religion = rel:catholic
+			birth_date = 1783.2.2
+			traits = {
+				charismatic experienced_political_operator 
+			}
+		}
+
+	}
+}

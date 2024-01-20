@@ -1,0 +1,180 @@
+﻿CHARACTERS = {
+	c:BYZ = {
+		create_character = {
+			first_name = "Philippos_Rhadinos"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1818.4.14
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Georgios_Paraspondylos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1795.11.16
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Konstantinos_Basileous"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1794.4.10
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Theodoros_Batatzes"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1800.10.31
+		}
+
+		create_character = {
+			first_name = "Andronikos_Melisurgos"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.4.11
+			traits = {
+				basic_offensive_planner cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Diogenes_Apokaukos"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.10.14
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Kyrillos_Kantakuzenos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1788.2.10
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Christophoros_Nestongos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1796.7.25
+			traits = {
+				meticulous surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Manuel_Apokaukos"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1806.6.27
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Philemon_Nestongos"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.1.2
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Ioustinianos_Phrangopoulos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1788.8.28
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Ioustinos_Rhadinos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1786.11.21
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Ioannes"
+			last_name = "Anthemiotes"
+			heir = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1821.8.30
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Romanos_Melisurgos"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1779.7.24
+		}
+
+		create_character = {
+			first_name = "Stephanos_Paraspondylos"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1800.4.13
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Niketas_Batatzes"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1782.12.7
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Dionysios_Phouskarnaki"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1767.2.8
+			traits = {
+				cautious experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Diogenes_Diasorenos"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1766.7.28
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

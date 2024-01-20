@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:N06 = {
+		create_character = {
+			first_name = "Dragging_Canoe_Atagulkalu"
+			ruler = yes
+			culture = cu:paiute
+			religion = rel:animist
+			birth_date = 1598.10.19
+			traits = {
+				sickly 
+			}
+		}
+
+	}
+}

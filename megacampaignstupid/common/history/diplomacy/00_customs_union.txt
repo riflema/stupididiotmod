@@ -1,0 +1,74 @@
+﻿DIPLOMACY = {
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:PLT
+			type = customs_union
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:X23
+			type = customs_union
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:ELS
+			type = customs_union
+		}
+	}
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:QUE
+			type = customs_union
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X27
+			type = customs_union
+		}
+	}
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:HBC
+			type = customs_union
+		}
+	}
+	c:POR = {
+		create_diplomatic_pact = {
+			country = c:BOL
+			type = customs_union
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X32
+			type = customs_union
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:CAL
+			type = customs_union
+		}
+	}
+	c:FLA = {
+		create_diplomatic_pact = {
+			country = c:X35
+			type = customs_union
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:GUA
+			type = customs_union
+		}
+	}
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:W80
+			type = customs_union
+		}
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Stamiscotocar_Miawkinaiyiks"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1589.4.27
+			traits = {
+				cancer experienced_political_operator 
+			}
+		}
+
+	}
+}

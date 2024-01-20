@@ -1,0 +1,136 @@
+﻿CHARACTERS = {
+	c:W68 = {
+		create_character = {
+			first_name = "Weiqi_Xiao"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1804.6.11
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Mo_Zhou"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1814.12.10
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Song_Dong"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1809.9.21
+			traits = {
+				basic_defensive_strategist meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Juren_Mei"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.10.28
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Ding_Yu"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.3.17
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Youmo"
+			last_name = "Dai"
+			heir = yes
+			culture = cu:han
+			religion = rel:mahayana
+			birth_date = 1826.8.27
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Xianming_Chang"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1793.3.1
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Yin_Tang"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1784.2.5
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Xiaoji"
+			last_name = "Nam"
+			female = yes
+			culture = cu:manchu
+			religion = rel:mahayana
+			birth_date = 1794.4.17
+			traits = {
+				experienced_diplomat reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Zhongxuan_I"
+			last_name = "Dai"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			interest_group = ig_industrialists
+			culture = cu:han
+			religion = rel:mahayana
+			birth_date = 1802.5.1
+			traits = {
+				basic_political_operator cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Weiqi_Chen"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1780.3.11
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Xiongying_Cui"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1768.8.17
+			traits = {
+				basic_defensive_strategist cruel 
+			}
+		}
+
+	}
+}

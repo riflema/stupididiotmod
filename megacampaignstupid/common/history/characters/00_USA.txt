@@ -1,0 +1,52 @@
+﻿CHARACTERS = {
+	c:USA = {
+		create_character = {
+			first_name = "Gonzalo_Orellana"
+			ruler = yes
+			culture = cu:neo-usa_north_colony-castillian
+			religion = rel:catholic
+			birth_date = 1796.12.20
+			traits = {
+				reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Hermenegildo_de_Aragon"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1778.11.1
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Hernando_de_Egmont"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1774.1.15
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Emilio_Lope_de_Haro"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1774.10.12
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Emilio_Cabeza_de_Vaca"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1779.10.3
+		}
+
+	}
+}
