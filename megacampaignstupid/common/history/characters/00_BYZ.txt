@@ -118,9 +118,9 @@
 		}
 
 		create_character = {
-			first_name = "Ioannes"
+			first_name = "Ioannes_XII"
 			last_name = "Anthemiotes"
-			heir = yes
+			ruler = yes
 			culture = cu:greek
 			religion = rel:orthodox
 			birth_date = 1821.8.30
