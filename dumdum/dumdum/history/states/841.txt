@@ -1,0 +1,22 @@
+state = {
+	id = 841
+	name = "STATE_841"
+	manpower = 949
+
+	state_category = rural
+
+	history = {
+		owner = WES
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = WES
+	}
+
+	provinces = {
+		4920 7979 
+	}
+}

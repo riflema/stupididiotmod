@@ -1,0 +1,28 @@
+state = {
+	id = 151
+	name = "STATE_151"
+	manpower = 9346508
+	resources = {
+		tungsten = 5
+	}
+
+	state_category = town
+
+	history = {
+		owner = PAK
+		victory_points = {
+			2105 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = PAK
+	}
+
+	provinces = {
+		1199 1949 2036 2105 4106 4410 5096 7080 8076 10332 10807 10816 11995 12080 
+	}
+}

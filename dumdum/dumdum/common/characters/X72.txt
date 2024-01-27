@@ -1,0 +1,145 @@
+characters = {
+	X72_83888824 = {
+		name = Madhavsingh_Babi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	X72_50332441 = {
+		name = Bharatsingh_Babi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X72_67110885 = {
+		name = Fakirbhai_Chaudhari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_67110885
+			cost = 150
+		}
+	}
+	X72_83887093 = {
+		name = Chabildas_Modhvadia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_83887093
+			cost = 150
+		}
+	}
+	X72_83887604 = {
+		name = Bharatsingh_Chaudhari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_83887604
+			cost = 150
+		}
+	}
+	X72_100664764 = {
+		name = Chabildas_Damjee
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_100664764
+			cost = 150
+		}
+	}
+	X72_117441140 = {
+		name = Chabildas_Solanki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_117441140
+			cost = 150
+		}
+	}
+	X72_117442472 = {
+		name = Balwantry_Ambani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_117442472
+			cost = 150
+		}
+	}
+	X72_134218556 = {
+		name = Anand_Mangeshkar
+		portraits = {
+			navy = {
+				large = GFX_idea_unknown
+				small = GFX_idea_unknown_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_134218556
+			cost = 150
+		}
+	}
+	X72_167775988 = {
+		name = Balwantry_Modhvadia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_167775988
+			cost = 150
+		}
+	}
+}

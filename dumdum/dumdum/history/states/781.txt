@@ -1,0 +1,20 @@
+state = {
+	id = 781
+	name = "STATE_781"
+	manpower = 35617
+
+	state_category = rural
+
+	history = {
+		owner = GCO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		12921 
+	}
+}

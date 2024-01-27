@@ -1,0 +1,28 @@
+state = {
+	id = 257
+	name = "STATE_257"
+	manpower = 1245219
+	resources = {
+		steel = 3
+		tungsten = 8
+	}
+
+	state_category = town
+
+	history = {
+		owner = TEX
+		victory_points = {
+			2008 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		add_core_of = TEX
+	}
+
+	provinces = {
+		1952 2008 2011 4956 
+	}
+}

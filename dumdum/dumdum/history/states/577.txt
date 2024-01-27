@@ -1,0 +1,24 @@
+state = {
+	id = 577
+	name = "STATE_577"
+	manpower = 293387
+	resources = {
+		tungsten = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = Z07
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = Z07
+	}
+
+	provinces = {
+		1993 2081 
+	}
+}

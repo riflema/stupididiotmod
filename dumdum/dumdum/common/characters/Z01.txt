@@ -1,0 +1,124 @@
+characters = {
+	Z01_184551427 = {
+		name = Antonio_Maria_de_Arteche
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_land_5
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	Z01_83886400 = {
+		name = Segismundo_de_Quintanilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_83886400
+			cost = 150
+		}
+	}
+	Z01_83886830 = {
+		name = Baldomero_DomI_nguez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_83886830
+			cost = 150
+		}
+	}
+	Z01_83890808 = {
+		name = Calixto_Perez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_83890808
+			cost = 150
+		}
+	}
+	Z01_100664516 = {
+		name = Gaspar_PE_rez_de_Herrasti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100664516
+			cost = 150
+		}
+	}
+	Z01_100664567 = {
+		name = Felipe_Asensio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100664567
+			cost = 150
+		}
+	}
+	Z01_117441012 = {
+		name = Jose_Manuel_Samitier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_117441012
+			cost = 150
+		}
+	}
+	Z01_134222176 = {
+		name = Genaro_de_Santiago_Concha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_134222176
+			cost = 150
+		}
+	}
+}

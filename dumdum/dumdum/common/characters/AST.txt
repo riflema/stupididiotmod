@@ -1,0 +1,140 @@
+characters = {
+	AST_50336264 = {
+		name = JoA_o_Carmona
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	AST_67109235 = {
+		name = Lucien_Charron
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_67109235
+			cost = 150
+		}
+	}
+	AST_67110023 = {
+		name = Hermenegildo_de_Carvalho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_67110023
+			cost = 150
+		}
+	}
+	AST_83887975 = {
+		name = E_tienne_de_SE_rent
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_83887975
+			cost = 150
+		}
+	}
+	AST_83888413 = {
+		name = Pedro_Carmona
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_83888413
+			cost = 150
+		}
+	}
+	AST_100665087 = {
+		name = Leon_Favart
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_100665087
+			cost = 150
+		}
+	}
+	AST_117440532 = {
+		name = JosE__Dias
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_117440532
+			cost = 150
+		}
+	}
+	AST_117442467 = {
+		name = Alfredo_Rodrigues
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_117442467
+			cost = 150
+		}
+	}
+	AST_134219081 = {
+		name = Archambaud_Paulmier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_134219081
+			cost = 150
+		}
+	}
+	AST_167772381 = {
+		name = Just_Baraguey
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_167772381
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 377
+	name = "STATE_377"
+	manpower = 233379
+	resources = {
+		oil = 1
+		rubber = 25
+		tungsten = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SCA
+		victory_points = {
+			12975 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		12975 
+	}
+}

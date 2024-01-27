@@ -1,0 +1,27 @@
+state = {
+	id = 480
+	name = "STATE_480"
+	manpower = 277637
+
+	state_category = rural
+
+	history = {
+		owner = TEX
+		victory_points = {
+			10895 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1945 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = TEX
+	}
+
+	provinces = {
+		1945 8057 10895 
+	}
+}

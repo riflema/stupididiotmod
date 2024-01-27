@@ -1,0 +1,28 @@
+state = {
+	id = 78
+	name = "STATE_78"
+	manpower = 1716829
+	resources = {
+		chromium = 45
+	}
+
+	state_category = large_town
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			9890 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		3922 6940 6953 9849 9874 9890 9906 11832 11857 11868 11887 
+	}
+}

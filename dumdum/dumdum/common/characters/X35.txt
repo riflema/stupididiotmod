@@ -1,0 +1,126 @@
+characters = {
+	X35_67109887 = {
+		name = nl_Giel_nl_Bosz
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_4
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = {  }
+		}
+	}
+	X35_50331724 = {
+		name = nl_Cornelius_nl_Jonker
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_50331724
+			cost = 150
+		}
+	}
+	X35_67109059 = {
+		name = nl_Ruben_nl_Graafland
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_67109059
+			cost = 150
+		}
+	}
+	X35_67109130 = {
+		name = nl_Nijs_nl_Steenhuis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_67109130
+			cost = 150
+		}
+	}
+	X35_83886295 = {
+		name = nl_Sander_nl_Kloppers
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_83886295
+			cost = 150
+		}
+	}
+	X35_83888721 = {
+		name = nl_Tryntje_nl_Van_der_Linde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_83888721
+			cost = 150
+		}
+	}
+	X35_83890555 = {
+		name = nl_Freek_nl_Backer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_83890555
+			cost = 150
+		}
+	}
+	X35_117440941 = {
+		name = nl_Rykaard_nl_Van_der_Geest
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_117440941
+			cost = 150
+		}
+	}
+	X35_167773305 = {
+		name = nl_Hubrecht_nl_Broekman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_167773305
+			cost = 150
+		}
+	}
+}

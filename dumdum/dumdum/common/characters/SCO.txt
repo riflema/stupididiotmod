@@ -1,0 +1,148 @@
+characters = {
+	SCO_33558936 = {
+		name = Alexandre_Jamais
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_europe_generic_7
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	SCO_67110718 = {
+		name = Santiago_Nocon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_67110718
+			cost = 150
+		}
+	}
+	SCO_67112297 = {
+		name = Pascal_de_Bussiere
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_67112297
+			cost = 150
+		}
+	}
+	SCO_67113002 = {
+		name = Marcelo_Basa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_67113002
+			cost = 150
+		}
+	}
+	SCO_83887557 = {
+		name = Thierry_de_Goyon
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_2
+				small = GFX_Portrait_France_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist infantry_officer old_guard trait_reckless }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 5
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_83887557
+			cost = 150
+		}
+	}
+	SCO_100667618 = {
+		name = Deodato_Nocon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100667618
+			cost = 150
+		}
+	}
+	SCO_100667767 = {
+		name = Marcelo_Dizon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_100667767
+			cost = 150
+		}
+	}
+	SCO_117445110 = {
+		name = Valentine_Dizon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_117445110
+			cost = 150
+		}
+	}
+	SCO_167776947 = {
+		name = Yves_Garrigou
+		portraits = {
+			navy = {
+				large = GFX_Portrait_France_Generic_navy_2
+				small = GFX_Portrait_France_Generic_navy_2_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { bold chief_engineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_167776947
+			cost = 150
+		}
+	}
+}

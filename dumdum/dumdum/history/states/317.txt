@@ -1,0 +1,27 @@
+state = {
+	id = 317
+	name = "STATE_317"
+	manpower = 1703623
+
+	state_category = town
+
+	history = {
+		owner = ITA
+		victory_points = {
+			11834 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			911 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = ITA
+	}
+
+	provinces = {
+		911 956 958 3762 3928 3959 3961 6975 9909 11834 11849 11875 
+	}
+}

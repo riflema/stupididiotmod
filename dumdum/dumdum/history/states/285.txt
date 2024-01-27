@@ -1,0 +1,28 @@
+state = {
+	id = 285
+	name = "STATE_285"
+	manpower = 413922
+	resources = {
+		oil = 5
+		steel = 4
+	}
+
+	state_category = town
+
+	history = {
+		owner = PLC
+		victory_points = {
+			6302 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		257 286 365 410 452 3196 3246 3276 6226 6275 6302 6339 6394 6473 6502 9243 9337 9338 9365 9391 11225 11240 11321 11458 
+	}
+}

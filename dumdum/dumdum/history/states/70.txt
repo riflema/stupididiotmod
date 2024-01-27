@@ -1,0 +1,31 @@
+state = {
+	id = 70
+	name = "STATE_70"
+	manpower = 2259702
+	resources = {
+		chromium = 12
+		oil = 19
+		tungsten = 24
+	}
+
+	state_category = city
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			5074 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		1920 1973 2029 4924 4976 5074 8000 10752 10840 12821 12894 13079 
+	}
+}

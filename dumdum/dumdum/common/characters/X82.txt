@@ -1,0 +1,126 @@
+characters = {
+	X82_33558812 = {
+		name = Aziz_Bendahara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	X82_50332052 = {
+		name = Riayat_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_50332052
+			cost = 150
+		}
+	}
+	X82_50334259 = {
+		name = Isandar_Aadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_50334259
+			cost = 150
+		}
+	}
+	X82_50335471 = {
+		name = Isandar_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_50335471
+			cost = 150
+		}
+	}
+	X82_100664100 = {
+		name = Muhammad_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_100664100
+			cost = 150
+		}
+	}
+	X82_100665211 = {
+		name = Ali_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_100665211
+			cost = 150
+		}
+	}
+	X82_100665339 = {
+		name = Al-Mukammal_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_100665339
+			cost = 150
+		}
+	}
+	X82_117442317 = {
+		name = Aziz_al-Khairat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_117442317
+			cost = 150
+		}
+	}
+	X82_167776364 = {
+		name = Idris_al-Khairat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_167776364
+			cost = 150
+		}
+	}
+}

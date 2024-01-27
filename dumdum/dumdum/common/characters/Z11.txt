@@ -1,0 +1,146 @@
+characters = {
+	Z11_150995468 = {
+		name = Charles_Bonaparte
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	Z11_33559148 = {
+		name = Matthieu_Fesch
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_33559148
+			cost = 150
+		}
+	}
+	Z11_67109763 = {
+		name = Lucien_de_Gueydon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_67109763
+			cost = 150
+		}
+	}
+	Z11_67110073 = {
+		name = Thierry_Harquet
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_67110073
+			cost = 150
+		}
+	}
+	Z11_83890169 = {
+		name = Olivier_Bezanson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_83890169
+			cost = 150
+		}
+	}
+	Z11_100663706 = {
+		name = Emile_Bouzique
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100663706
+			cost = 150
+		}
+	}
+	Z11_100665644 = {
+		name = Henri_Bonaparte
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	Z11_117441336 = {
+		name = Jeremie_Astouin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_117441336
+			cost = 150
+		}
+	}
+	Z11_117441765 = {
+		name = Firmin_Franchet_d_Esperey
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_117441765
+			cost = 150
+		}
+	}
+	Z11_117443062 = {
+		name = MoI_se_Godivier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_117443062
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 584
+	name = "STATE_584"
+	manpower = 132467
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			4897 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1473 4897 4978 
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 300
+	name = "STATE_300"
+	manpower = 1109875
+	resources = {
+		rubber = 3
+		steel = 3
+		tungsten = 4
+	}
+
+	state_category = town
+
+	history = {
+		owner = W78
+		victory_points = {
+			4273 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = W78
+	}
+
+	provinces = {
+		4273 10191 12162 12219 12234 
+	}
+}

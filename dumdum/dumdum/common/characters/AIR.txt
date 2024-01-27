@@ -1,0 +1,140 @@
+characters = {
+	AIR_16778710 = {
+		name = Aytarel_Dag_Rali
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	AIR_33555748 = {
+		name = Adham_Derret_ibn_Jawda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_33555748
+			cost = 150
+		}
+	}
+	AIR_50336115 = {
+		name = Salih_Derret_ibn_Jawda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_50336115
+			cost = 150
+		}
+	}
+	AIR_67111738 = {
+		name = Majila_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_67111738
+			cost = 150
+		}
+	}
+	AIR_83886548 = {
+		name = Raqib_Kichidemi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83886548
+			cost = 150
+		}
+	}
+	AIR_83886784 = {
+		name = Raqib_as-Sarhir
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83886784
+			cost = 150
+		}
+	}
+	AIR_83888104 = {
+		name = Yakob_Kichidemi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_83888104
+			cost = 150
+		}
+	}
+	AIR_100663578 = {
+		name = Moussa_Dag_Rali
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_100663578
+			cost = 150
+		}
+	}
+	AIR_100663886 = {
+		name = Jawda_ibn_Ali
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_100663886
+			cost = 150
+		}
+	}
+	AIR_117443588 = {
+		name = Kharut_Abd_al-Aziz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_117443588
+			cost = 150
+		}
+	}
+}

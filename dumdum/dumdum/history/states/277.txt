@@ -1,0 +1,32 @@
+state = {
+	id = 277
+	name = "STATE_277"
+	manpower = 1808711
+	resources = {
+		rubber = 7
+		tungsten = 9
+	}
+
+	state_category = town
+
+	history = {
+		owner = GUA
+		victory_points = {
+			12715 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			4904 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = GUA
+	}
+
+	provinces = {
+		4904 4965 12715 
+	}
+}

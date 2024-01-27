@@ -1,0 +1,29 @@
+state = {
+	id = 52
+	name = "STATE_52"
+	manpower = 24011323
+	resources = {
+		aluminium = 11
+		tungsten = 1
+	}
+
+	state_category = large_city
+
+	history = {
+		owner = W68
+		victory_points = {
+			9958 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 2
+		}
+		add_core_of = W68
+	}
+
+	provinces = {
+		1004 1139 1603 4058 4114 4144 4158 4519 4547 4606 6932 7074 7459 7508 7540 7568 7656 9958 10364 10434 10446 11931 12012 12426 
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 829
+	name = "STATE_829"
+	manpower = 4600
+
+	state_category = rural
+
+	history = {
+		owner = SPR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SPR
+	}
+
+	provinces = {
+		13013 13016 
+	}
+}

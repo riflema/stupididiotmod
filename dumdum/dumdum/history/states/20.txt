@@ -1,0 +1,30 @@
+state = {
+	id = 20
+	name = "STATE_20"
+	manpower = 2312691
+	resources = {
+		chromium = 26
+		steel = 15
+	}
+
+	state_category = metropolis
+
+	history = {
+		owner = SCA
+		victory_points = {
+			11293 4
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 1
+			air_base = 3
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		285 303 369 3342 3359 7377 11293 11303 
+	}
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 30
+	name = "STATE_30"
+	manpower = 3456562
+	resources = {
+		aluminium = 42
+		oil = 113
+		rubber = 11
+		tungsten = 13
+	}
+
+	state_category = metropolis
+
+	history = {
+		owner = GCO
+		victory_points = {
+			10855 4
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			1944 = {
+				naval_base = 6
+			}
+			air_base = 2
+		}
+		add_core_of = GCO
+	}
+
+	provinces = {
+		153 1944 1997 2052 4526 5088 10855 12772 
+	}
+}

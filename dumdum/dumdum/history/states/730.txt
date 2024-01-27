@@ -1,0 +1,24 @@
+state = {
+	id = 730
+	name = "STATE_730"
+	manpower = 24302
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			7079 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		5078 7079 7148 9989 10061 11910 11967 12033 12091 
+	}
+}

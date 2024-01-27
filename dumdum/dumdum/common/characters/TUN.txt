@@ -1,0 +1,131 @@
+characters = {
+	TUN_184553423 = {
+		name = Khalid_al-Jaza_iri
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Arabia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	TUN_67108943 = {
+		name = Muhammad_Tisbaa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_67108943
+			cost = 150
+		}
+	}
+	TUN_67112328 = {
+		name = Abd_al-Karim_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_67112328
+			cost = 150
+		}
+	}
+	TUN_83887253 = {
+		name = Fawzi_al-Qazdughli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	TUN_83890754 = {
+		name = Mustafa_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_83890754
+			cost = 150
+		}
+	}
+	TUN_100663894 = {
+		name = Khalid_al-Shawiyyati
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { agricultural_capitalist }
+			slot = political_advisor
+			idea_token = i_100663894
+			cost = 150
+		}
+	}
+	TUN_150996865 = {
+		name = Abd_al-Karim_Messaoudi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_150996865
+			cost = 150
+		}
+	}
+	TUN_167773738 = {
+		name = Abd_al-Karim_al-Shawiyyati
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_167773738
+			cost = 150
+		}
+	}
+	TUN_167774751 = {
+		name = Mustafa_al-Shawiyyati
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_167774751
+			cost = 150
+		}
+	}
+}

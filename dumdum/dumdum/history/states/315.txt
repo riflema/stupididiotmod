@@ -1,0 +1,27 @@
+state = {
+	id = 315
+	name = "STATE_315"
+	manpower = 1117206
+	resources = {
+		steel = 2
+	}
+
+	state_category = town
+
+	history = {
+		owner = SOV
+		victory_points = {
+			12536 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = SOV
+	}
+
+	provinces = {
+		1369 1685 1718 1777 1816 1850 1876 4665 4681 4690 4711 4724 4789 4793 4818 4853 7713 7744 7757 7789 7815 7886 10562 10580 10613 10639 10649 10686 10712 12174 12536 12563 12621 12628 12631 12666 12691 
+	}
+}

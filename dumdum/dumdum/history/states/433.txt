@@ -1,0 +1,29 @@
+state = {
+	id = 433
+	name = "STATE_433"
+	manpower = 1055021
+	resources = {
+		chromium = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = Z11
+		victory_points = {
+			11590 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+		}
+		add_core_of = Z11
+	}
+
+	provinces = {
+		636 3612 6666 6683 9618 9638 11590 
+	}
+}

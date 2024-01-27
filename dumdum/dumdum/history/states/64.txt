@@ -1,0 +1,28 @@
+state = {
+	id = 64
+	name = "STATE_64"
+	manpower = 23598249
+	resources = {
+		tungsten = 5
+	}
+
+	state_category = city
+
+	history = {
+		owner = W68
+		victory_points = {
+			7653 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+		}
+		add_core_of = W68
+	}
+
+	provinces = {
+		1053 1066 1078 1153 1628 3992 4038 4083 4156 4183 4185 7004 7007 7054 7172 7199 7653 9942 9984 10057 10114 10501 11945 11988 12030 12495 
+	}
+}

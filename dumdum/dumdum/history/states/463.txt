@@ -1,0 +1,25 @@
+state = {
+	id = 463
+	name = "STATE_463"
+	manpower = 886916
+	resources = {
+		chromium = 3
+		rubber = 4
+		tungsten = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = GUA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		2021 12867 
+	}
+}

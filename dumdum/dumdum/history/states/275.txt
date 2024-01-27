@@ -1,0 +1,24 @@
+state = {
+	id = 275
+	name = "STATE_275"
+	manpower = 1669586
+
+	state_category = town
+
+	history = {
+		owner = PAK
+		victory_points = {
+			7584 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = PAK
+	}
+
+	provinces = {
+		1995 2078 5020 5064 7448 7584 7916 7984 10852 10896 12248 12788 12877 
+	}
+}

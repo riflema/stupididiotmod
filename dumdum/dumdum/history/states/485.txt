@@ -1,0 +1,28 @@
+state = {
+	id = 485
+	name = "STATE_485"
+	manpower = 891008
+	resources = {
+		chromium = 2
+		rubber = 3
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X15
+		victory_points = {
+			1607 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1170 1566 1607 2061 4175 4210 4585 4654 7400 7562 7603 7647 7909 7974 12317 12363 
+	}
+}

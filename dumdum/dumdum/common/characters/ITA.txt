@@ -1,0 +1,168 @@
+characters = {
+	ITA_67109338 = {
+		name = Romualdo_Bronzini_Zapelloni
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	ITA_50333179 = {
+		name = Cristoforo_Gussone
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_4
+				small = GFX_Portrait_Italy_Generic_land_4_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_50333179
+			cost = 150
+		}
+	}
+	ITA_67109655 = {
+		name = Fabrizio_d_Ittiri_LedA_
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_2
+				small = GFX_Portrait_Italy_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { career_officer infantry_officer inflexible_strategist }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { democratic_crusader }
+			slot = political_advisor
+			idea_token = i_67109655
+			cost = 150
+		}
+	}
+	ITA_83886585 = {
+		name = Matteo_Bronzini_Zapelloni
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	ITA_83886848 = {
+		name = Francesco_Rosaroll
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_83886848
+			cost = 150
+		}
+	}
+	ITA_100663972 = {
+		name = Giustino_Guarini
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_100663972
+			cost = 150
+		}
+	}
+	ITA_100664308 = {
+		name = Giulio_Massimo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_100664308
+			cost = 150
+		}
+	}
+	ITA_100667666 = {
+		name = Ruggiero_Girod_De_Montfalcon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_100667666
+			cost = 150
+		}
+	}
+	ITA_117443260 = {
+		name = Corrado_Parisi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_117443260
+			cost = 150
+		}
+	}
+	ITA_117444526 = {
+		name = Antonio_Massimo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_117444526
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 511
+	name = "STATE_511"
+	manpower = 190370
+
+	state_category = rural
+
+	history = {
+		owner = TEX
+		victory_points = {
+			12835 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = TEX
+	}
+
+	provinces = {
+		2060 2083 2104 5015 5021 7973 10746 10769 10800 12721 12811 12835 13088 
+	}
+}

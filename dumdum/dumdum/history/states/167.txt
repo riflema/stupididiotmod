@@ -1,0 +1,25 @@
+state = {
+	id = 167
+	name = "STATE_167"
+	manpower = 1293523
+
+	state_category = town
+
+	history = {
+		owner = UNL
+		victory_points = {
+			6496 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = UNL
+	}
+
+	provinces = {
+		3262 6241 6496 6500 9363 11346 11456 11562 
+	}
+}

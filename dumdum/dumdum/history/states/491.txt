@@ -1,0 +1,23 @@
+state = {
+	id = 491
+	name = "STATE_491"
+	manpower = 2879639
+
+	state_category = rural
+
+	history = {
+		owner = W68
+		victory_points = {
+			12485 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1588 1645 1693 1776 1847 4506 4561 4592 4633 4649 4745 4809 4852 4876 7526 7582 7613 7652 7697 7743 7767 7832 7848 7873 7894 7897 10433 10541 10567 10612 10638 10675 10698 12485 12537 12548 12618 12690 13150 
+	}
+}

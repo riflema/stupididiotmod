@@ -1,0 +1,112 @@
+characters = {
+	ELS_50331918 = {
+		name = Joaquin_Morazan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	ELS_50336308 = {
+		name = Benjamin_2_Medina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_50336308
+			cost = 150
+		}
+	}
+	ELS_83887435 = {
+		name = Prospero_2_Morazan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_83887435
+			cost = 150
+		}
+	}
+	ELS_100665282 = {
+		name = Andres_Palacios
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100665282
+			cost = 150
+		}
+	}
+	ELS_100665290 = {
+		name = Eugenio_2_Morazan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_100665290
+			cost = 150
+		}
+	}
+	ELS_134217950 = {
+		name = Juan_Peralta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_134217950
+			cost = 150
+		}
+	}
+	ELS_134221299 = {
+		name = Arturo_Carrera
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_134221299
+			cost = 150
+		}
+	}
+	ELS_150995297 = {
+		name = Santiago_Corral
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_150995297
+			cost = 150
+		}
+	}
+}

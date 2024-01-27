@@ -1,0 +1,27 @@
+state = {
+	id = 328
+	name = "STATE_328"
+	manpower = 1100093
+	resources = {
+		tungsten = 5
+	}
+
+	state_category = town
+
+	history = {
+		owner = TEX
+		victory_points = {
+			10588 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = TEX
+	}
+
+	provinces = {
+		868 1658 6887 7684 7999 9792 10535 10588 12627 
+	}
+}

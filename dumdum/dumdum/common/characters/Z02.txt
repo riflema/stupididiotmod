@@ -1,0 +1,140 @@
+characters = {
+	Z02_100666597 = {
+		name = Ricardo_de_Almansa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_6
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	Z02_50333833 = {
+		name = Felipe_Gil
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_50333833
+			cost = 150
+		}
+	}
+	Z02_83887040 = {
+		name = Juan_Menendez
+		portraits = {
+			army = {
+				large = GFX_Portrait_europe_generic_land_6
+				small = GFX_Portrait_europe_generic_land_6_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_83887040
+			cost = 150
+		}
+	}
+	Z02_83887549 = {
+		name = Jose_Maria_Garcia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_83887549
+			cost = 150
+		}
+	}
+	Z02_83889155 = {
+		name = Antonio_Maria_Yague
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_8
+				small = GFX_portrait_europe_generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	Z02_100666655 = {
+		name = Federico_Alonso
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100666655
+			cost = 150
+		}
+	}
+	Z02_100667758 = {
+		name = Antonio_Maria_de_la_Fuente
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_100667758
+			cost = 150
+		}
+	}
+	Z02_117440835 = {
+		name = Antonio_Maria_de_Palafox
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_117440835
+			cost = 150
+		}
+	}
+	Z02_134220505 = {
+		name = Francisco_Javier_Pavia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_134220505
+			cost = 150
+		}
+	}
+}

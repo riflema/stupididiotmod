@@ -1,0 +1,140 @@
+characters = {
+	X98_67110122 = {
+		name = Abdullah_Selangor
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X98_33556548 = {
+		name = Jaafar_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_33556548
+			cost = 150
+		}
+	}
+	X98_83887267 = {
+		name = Ismail_Muadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_83887267
+			cost = 150
+		}
+	}
+	X98_83888597 = {
+		name = Isandar_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83888597
+			cost = 150
+		}
+	}
+	X98_100663398 = {
+		name = Muabidin_Selangor
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100663398
+			cost = 150
+		}
+	}
+	X98_100663399 = {
+		name = Jalil_Muadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_100663399
+			cost = 150
+		}
+	}
+	X98_100663805 = {
+		name = Isandar_al-Khairat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_100663805
+			cost = 150
+		}
+	}
+	X98_100663981 = {
+		name = Jaafar_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_100663981
+			cost = 150
+		}
+	}
+	X98_100666313 = {
+		name = Jalil_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_100666313
+			cost = 150
+		}
+	}
+	X98_134221760 = {
+		name = Abdullah_Raja_Ahmad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_134221760
+			cost = 150
+		}
+	}
+}

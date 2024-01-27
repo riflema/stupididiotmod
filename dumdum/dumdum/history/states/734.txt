@@ -1,0 +1,16 @@
+state = {
+	id = 734
+	name = "STATE_734"
+	manpower = 185439
+
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = AIR
+	}
+
+	provinces = {
+		1956 4913 7939 10917 
+	}
+}

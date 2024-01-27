@@ -1,0 +1,134 @@
+characters = {
+	GER_67111822 = {
+		name = Alexander_Trient
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_1
+			}
+		}
+		country_leader = {
+			ideology = leninism
+			traits = {  }
+		}
+	}
+	GER_67109499 = {
+		name = Rudolf_Held
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_67109499
+			cost = 150
+		}
+	}
+	GER_83886748 = {
+		name = Viktor_Zittel
+		portraits = {
+			army = {
+				large = GFX_Portrait_Germany_Generic_land_2
+				small = GFX_Portrait_Germany_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_83886748
+			cost = 150
+		}
+	}
+	GER_83887161 = {
+		name = Julius_Pesenecker
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_83887161
+			cost = 150
+		}
+	}
+	GER_83890240 = {
+		name = Vitus_Solger
+		portraits = {
+			army = {
+				large = GFX_Portrait_Germany_Generic_land_4
+				small = GFX_Portrait_Germany_Generic_land_4_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer infantry_officer organizer }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 6
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { grand_battle_plan_expert }
+			slot = political_advisor
+			idea_token = i_83890240
+			cost = 150
+		}
+	}
+	GER_100664509 = {
+		name = Haubold_von_Willich
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_100664509
+			cost = 150
+		}
+	}
+	GER_117441146 = {
+		name = Heinrich_Treibe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_117441146
+			cost = 150
+		}
+	}
+	GER_117443415 = {
+		name = Moritz_Birnbaum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_117443415
+			cost = 150
+		}
+	}
+}

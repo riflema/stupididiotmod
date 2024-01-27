@@ -1,0 +1,134 @@
+characters = {
+	W50_83886112 = {
+		name = Samudragupta_Nagavamsi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	W50_67109209 = {
+		name = Bandishankar_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67109209
+			cost = 150
+		}
+	}
+	W50_67110683 = {
+		name = Maharshi_Ram
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_67110683
+			cost = 150
+		}
+	}
+	W50_83887242 = {
+		name = Ashoka_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_83887242
+			cost = 150
+		}
+	}
+	W50_100663814 = {
+		name = Samudragupta_Janak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_100663814
+			cost = 150
+		}
+	}
+	W50_100664082 = {
+		name = Samudragupta_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100664082
+			cost = 150
+		}
+	}
+	W50_117441177 = {
+		name = Ashtravakra_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_117441177
+			cost = 150
+		}
+	}
+	W50_117443151 = {
+		name = Asvaghosa_Valmiki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_117443151
+			cost = 150
+		}
+	}
+	W50_150995100 = {
+		name = Ashtravakra_Nagavamsi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W50_150997857 = {
+		name = Vatsyayana_Devi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_150997857
+			cost = 150
+		}
+	}
+}

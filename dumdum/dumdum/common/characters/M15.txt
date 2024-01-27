@@ -1,0 +1,152 @@
+characters = {
+	M15_83887701 = {
+		name = Edinho_Palyama
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_land_2
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { inflexible_strategist politically_connected unyielding_defender }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	M15_67110510 = {
+		name = Ellyas_Palopo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_67110510
+			cost = 150
+		}
+	}
+	M15_67110649 = {
+		name = Jaafar_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_67110649
+			cost = 150
+		}
+	}
+	M15_67111308 = {
+		name = Jalil_Riayat_Shah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_67111308
+			cost = 150
+		}
+	}
+	M15_83887083 = {
+		name = Dominggus_Palopo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_83887083
+			cost = 150
+		}
+	}
+	M15_100663406 = {
+		name = Dominggus_Lilipaly
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_100663406
+			cost = 150
+		}
+	}
+	M15_100664009 = {
+		name = Michael_Palyama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_100664009
+			cost = 150
+		}
+	}
+	M15_100666708 = {
+		name = Safiuddin_Muadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_100666708
+			cost = 150
+		}
+	}
+	M15_134218651 = {
+		name = Muhammad_Muadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_134218651
+			cost = 150
+		}
+	}
+	M15_201327565 = {
+		name = Isandar_Murshidul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_201327565
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,154 @@
+characters = {
+	HYD_16781623 = {
+		name = Qutlugh_Tughluq
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	HYD_67109062 = {
+		name = Nasir_al-Din_Tughluq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_67109062
+			cost = 150
+		}
+	}
+	HYD_67109736 = {
+		name = Venkatji_Bhandari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_67109736
+			cost = 150
+		}
+	}
+	HYD_83886480 = {
+		name = Narayan_Phadnis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83886480
+			cost = 150
+		}
+	}
+	HYD_83887386 = {
+		name = Bajirao_Kalash
+		portraits = {
+			army = {
+				large = GFX_idea_unknown
+				small = GFX_idea_unknown_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer infantry_officer }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { military_theorist }
+			slot = political_advisor
+			idea_token = i_83887386
+			cost = 150
+		}
+	}
+	HYD_83887986 = {
+		name = Basaveshwara_Ballala
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_83887986
+			cost = 150
+		}
+	}
+	HYD_100663840 = {
+		name = Subramania_Dalawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_100663840
+			cost = 150
+		}
+	}
+	HYD_100664275 = {
+		name = Shanmukham_Rajapopalachari
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	HYD_100665502 = {
+		name = Ramaswami_Mudaliar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100665502
+			cost = 150
+		}
+	}
+	HYD_150999533 = {
+		name = Bajirao_Nirban
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_150999533
+			cost = 150
+		}
+	}
+}

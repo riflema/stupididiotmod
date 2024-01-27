@@ -1,0 +1,152 @@
+characters = {
+	WES_50333482 = {
+		name = Abd_al-Karim_el_Krim
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+			civilian = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { inflexible_strategist politically_connected trait_cautious unyielding_defender }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	WES_50333487 = {
+		name = Mustafa_Belkadi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_50333487
+			cost = 150
+		}
+	}
+	WES_67110340 = {
+		name = Khalid_el_Krim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_67110340
+			cost = 150
+		}
+	}
+	WES_67111125 = {
+		name = Muhammad_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_67111125
+			cost = 150
+		}
+	}
+	WES_83890271 = {
+		name = Ahmed_al-Rifi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_83890271
+			cost = 150
+		}
+	}
+	WES_83890415 = {
+		name = Khalid_al-Zanatawi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_83890415
+			cost = 150
+		}
+	}
+	WES_100663648 = {
+		name = Khalid_Mukrani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_100663648
+			cost = 150
+		}
+	}
+	WES_134219370 = {
+		name = Khalid_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_134219370
+			cost = 150
+		}
+	}
+	WES_150995927 = {
+		name = Abd_al-Karim_Messaoudi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_150995927
+			cost = 150
+		}
+	}
+	WES_184553398 = {
+		name = Mustafa_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_184553398
+			cost = 150
+		}
+	}
+}

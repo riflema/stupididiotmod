@@ -1,0 +1,145 @@
+characters = {
+	X16_117444718 = {
+		name = Kuseini_Suryavansha
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X16_67113576 = {
+		name = Safiuddin_al-Marhum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_67113576
+			cost = 150
+		}
+	}
+	X16_83886921 = {
+		name = Sapardan_Suryavansha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X16_117442897 = {
+		name = Mariano_Basa
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { career_officer naval_invader old_guard }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_117442897
+			cost = 150
+		}
+	}
+	X16_117443489 = {
+		name = Ismail_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_117443489
+			cost = 150
+		}
+	}
+	X16_117444225 = {
+		name = Simeon_2_Nocon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_117444225
+			cost = 150
+		}
+	}
+	X16_134218070 = {
+		name = Shahabuddin_Raja_Ahmad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_134218070
+			cost = 150
+		}
+	}
+	X16_134218692 = {
+		name = Valentine_Bonifacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_134218692
+			cost = 150
+		}
+	}
+	X16_134218771 = {
+		name = Deodato_Jacinto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_134218771
+			cost = 150
+		}
+	}
+	X16_167775648 = {
+		name = Leon_3_Nocon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_167775648
+			cost = 150
+		}
+	}
+}

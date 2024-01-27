@@ -1,0 +1,27 @@
+state = {
+	id = 423
+	name = "STATE_423"
+	manpower = 459065
+	resources = {
+		steel = 3
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PAK
+		victory_points = {
+			8013 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PAK
+	}
+
+	provinces = {
+		5105 8013 8044 8098 
+	}
+}

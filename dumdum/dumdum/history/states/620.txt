@@ -1,0 +1,23 @@
+state = {
+	id = 620
+	name = "STATE_620"
+	manpower = 66826
+	resources = {
+		rubber = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1286 1301 1329 1361 4304 4332 4352 4421 7251 7324 7339 7352 7412 10166 10206 12222 
+	}
+}

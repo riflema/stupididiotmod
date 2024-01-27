@@ -1,0 +1,138 @@
+characters = {
+	V18_33557167 = {
+		name = Yameogo_Zakari
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { career_officer infantry_officer war_hero }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	V18_16779350 = {
+		name = Alfa_Ouedraogo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_16779350
+			cost = 150
+		}
+	}
+	V18_33557858 = {
+		name = Bugaya_Agalawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_33557858
+			cost = 150
+		}
+	}
+	V18_50331866 = {
+		name = Coutoucou_Zakari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_50331866
+			cost = 150
+		}
+	}
+	V18_50332128 = {
+		name = Ode_Ehengbuda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_50332128
+			cost = 150
+		}
+	}
+	V18_67110028 = {
+		name = Ezoti_Ogbemudia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67110028
+			cost = 150
+		}
+	}
+	V18_100665633 = {
+		name = Gazari_Hamaria
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_100665633
+			cost = 150
+		}
+	}
+	V18_117442001 = {
+		name = Nonyelum_Equiano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_117442001
+			cost = 150
+		}
+	}
+	V18_117444266 = {
+		name = Kanajeji_Audu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_117444266
+			cost = 150
+		}
+	}
+}

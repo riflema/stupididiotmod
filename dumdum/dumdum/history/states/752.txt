@@ -1,0 +1,27 @@
+state = {
+	id = 752
+	name = "STATE_752"
+	manpower = 293930
+	resources = {
+		oil = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = W68
+		victory_points = {
+			8055 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = W68
+	}
+
+	provinces = {
+		5031 7511 7803 8055 8127 10724 10770 10899 12750 12776 12880 
+	}
+}

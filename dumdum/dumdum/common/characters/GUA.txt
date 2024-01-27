@@ -1,0 +1,137 @@
+characters = {
+	GUA_83889979 = {
+		name = norm_Alexander_norm_von_Hohenzollern
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	GUA_50331852 = {
+		name = norm_Edwin_norm_Schimmelfennig
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_50331852
+			cost = 150
+		}
+	}
+	GUA_50332804 = {
+		name = norm_Nikolaus_norm_Cordemann
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_50332804
+			cost = 150
+		}
+	}
+	GUA_50333965 = {
+		name = norm_Ernst_norm_von_Spee
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_50333965
+			cost = 150
+		}
+	}
+	GUA_83886399 = {
+		name = norm_August_norm_Kempner
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83886399
+			cost = 150
+		}
+	}
+	GUA_100664806 = {
+		name = norm_Otto_norm_Koffka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_100664806
+			cost = 150
+		}
+	}
+	GUA_117441365 = {
+		name = norm_Konrad_norm_von_Hannover
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_117441365
+			cost = 150
+		}
+	}
+	GUA_134218165 = {
+		name = norm_Otto_norm_von_Willich
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { agricultural_capitalist }
+			slot = political_advisor
+			idea_token = i_134218165
+			cost = 150
+		}
+	}
+	GUA_134218487 = {
+		name = norm_Erich_norm_Hubatsch
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_134218487
+			cost = 150
+		}
+	}
+}

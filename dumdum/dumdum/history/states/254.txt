@@ -1,0 +1,28 @@
+state = {
+	id = 254
+	name = "STATE_254"
+	manpower = 411934
+	resources = {
+		steel = 15
+	}
+
+	state_category = town
+
+	history = {
+		owner = PLC
+		victory_points = {
+			6106 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		3 18 26 40 60 90 92 127 138 152 155 2994 3033 3078 3084 3142 3144 6057 6070 6090 6094 6106 6159 6172 9078 9082 9118 9190 11062 11092 11094 11150 11153 11159 11178 11212 
+	}
+}

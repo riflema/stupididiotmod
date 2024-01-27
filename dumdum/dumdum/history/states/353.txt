@@ -1,0 +1,27 @@
+state = {
+	id = 353
+	name = "STATE_353"
+	manpower = 370731
+
+	state_category = rural
+
+	history = {
+		owner = POR
+		victory_points = {
+			12960 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12960 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = POR
+	}
+
+	provinces = {
+		12960 
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 597
+	name = "STATE_597"
+	manpower = 117729
+	resources = {
+		oil = 1
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BRA
+		victory_points = {
+			12951 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BRA
+	}
+
+	provinces = {
+		2111 2181 2204 5148 8189 12951 
+	}
+}

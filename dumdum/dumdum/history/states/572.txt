@@ -1,0 +1,26 @@
+state = {
+	id = 572
+	name = "STATE_572"
+	manpower = 1548370
+	resources = {
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = TEX
+		victory_points = {
+			5052 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		2051 4887 5052 8032 12746 12755 12873 13089 
+	}
+}

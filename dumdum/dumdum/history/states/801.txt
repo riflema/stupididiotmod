@@ -1,0 +1,24 @@
+state = {
+	id = 801
+	name = "STATE_801"
+	manpower = 17802
+	resources = {
+		chromium = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X16
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = X16
+	}
+
+	provinces = {
+		12280 
+	}
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 817
+	name = "STATE_817"
+	manpower = 15523
+	resources = {
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SOV
+		victory_points = {
+			13063 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			13063 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = SOV
+	}
+
+	provinces = {
+		1819 4006 4455 4744 5264 13062 13063 
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 515
+	name = "STATE_515"
+	manpower = 299200
+	resources = {
+		chromium = 0
+		steel = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = TUN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = TUN
+	}
+
+	provinces = {
+		1126 1967 4018 9960 
+	}
+}

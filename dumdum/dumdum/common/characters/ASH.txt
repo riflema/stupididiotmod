@@ -1,0 +1,123 @@
+characters = {
+	ASH_150996974 = {
+		name = Amanquatia_Denkyira
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+	}
+	ASH_33557080 = {
+		name = Kwabena_Asante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_33557080
+			cost = 150
+		}
+	}
+	ASH_83888091 = {
+		name = Onsei_Bonsu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_83888091
+			cost = 150
+		}
+	}
+	ASH_83888641 = {
+		name = Akyampon_Bonoman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_83888641
+			cost = 150
+		}
+	}
+	ASH_100663817 = {
+		name = Akyampon_Asante
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { career_officer desert_fox }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_100663817
+			cost = 150
+		}
+	}
+	ASH_100667071 = {
+		name = Kwame_Bonoman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_100667071
+			cost = 150
+		}
+	}
+	ASH_117443441 = {
+		name = Agyeman_Denkyira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_117443441
+			cost = 150
+		}
+	}
+	ASH_117444885 = {
+		name = Kwaku_Dua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_117444885
+			cost = 150
+		}
+	}
+}

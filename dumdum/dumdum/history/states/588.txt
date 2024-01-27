@@ -1,0 +1,24 @@
+state = {
+	id = 588
+	name = "STATE_588"
+	manpower = 59895
+	resources = {
+		oil = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		468 470 477 545 615 3404 3406 3459 3467 3515 3538 3622 6491 6498 6514 6525 6551 6564 6588 9445 9447 9487 9513 9526 9538 9549 11457 11472 11473 11482 11524 11537 11538 11578 
+	}
+}

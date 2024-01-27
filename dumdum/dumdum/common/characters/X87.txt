@@ -1,0 +1,129 @@
+characters = {
+	X87_33555595 = {
+		name = Virgil_Volvoreanu
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_europe_generic_7
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = {  }
+		}
+	}
+	X87_67109893 = {
+		name = Cornel_David
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67109893
+			cost = 150
+		}
+	}
+	X87_67111257 = {
+		name = Tarquiniu_Slaniceanu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_67111257
+			cost = 150
+		}
+	}
+	X87_83888194 = {
+		name = Silviu_Racovita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_83888194
+			cost = 150
+		}
+	}
+	X87_83888248 = {
+		name = Procop_Aurelian
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83888248
+			cost = 150
+		}
+	}
+	X87_117440676 = {
+		name = Ion_Luchide
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_117440676
+			cost = 150
+		}
+	}
+	X87_117442035 = {
+		name = Ulise_Racovita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117442035
+			cost = 150
+		}
+	}
+	X87_117444406 = {
+		name = Coriolan_Murgescu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_117444406
+			cost = 150
+		}
+	}
+	X87_134219297 = {
+		name = Tarquiniu_Firea
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+}

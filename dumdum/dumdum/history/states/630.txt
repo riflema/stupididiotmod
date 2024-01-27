@@ -1,0 +1,24 @@
+state = {
+	id = 630
+	name = "STATE_630"
+	manpower = 856389
+
+	state_category = rural
+
+	history = {
+		owner = SCO
+		victory_points = {
+			10252 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SCO
+	}
+
+	provinces = {
+		4101 4214 4350 4368 7325 7439 10167 10241 10252 10298 12213 
+	}
+}

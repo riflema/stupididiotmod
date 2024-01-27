@@ -1,0 +1,23 @@
+state = {
+	id = 522
+	name = "STATE_522"
+	manpower = 1855108
+
+	state_category = rural
+
+	history = {
+		owner = ITA
+		victory_points = {
+			6613 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		762 764 780 3589 3764 3768 6613 6639 6784 6786 9590 9728 9736 11713 11716 
+	}
+}

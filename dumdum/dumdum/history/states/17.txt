@@ -1,0 +1,31 @@
+state = {
+	id = 17
+	name = "STATE_17"
+	manpower = 2384411
+	resources = {
+		chromium = 12
+		oil = 7
+		steel = 47
+	}
+
+	state_category = megalopolis
+
+	history = {
+		owner = SCA
+		victory_points = {
+			6318 5
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+			air_base = 3
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		219 3205 3311 6268 6318 6335 6384 6399 9285 9397 11332 
+	}
+}

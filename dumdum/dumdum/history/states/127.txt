@@ -1,0 +1,28 @@
+state = {
+	id = 127
+	name = "STATE_127"
+	manpower = 1416311
+
+	state_category = town
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			949 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			9783 = {
+				naval_base = 0
+			}
+			air_base = 1
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		649 793 935 949 965 3796 3819 3908 3952 3971 6842 9610 9612 9769 9771 9783 11754 
+	}
+}

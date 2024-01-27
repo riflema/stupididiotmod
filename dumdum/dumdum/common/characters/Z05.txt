@@ -1,0 +1,112 @@
+characters = {
+	Z05_134221088 = {
+		name = Emanuele_Bianchini
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	Z05_50332033 = {
+		name = Gaetano_di_Boglio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_50332033
+			cost = 150
+		}
+	}
+	Z05_67109486 = {
+		name = Nicola_Sanfelice
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_67109486
+			cost = 150
+		}
+	}
+	Z05_83887148 = {
+		name = Luca_Polleri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_83887148
+			cost = 150
+		}
+	}
+	Z05_83887324 = {
+		name = Davide_Giardino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_83887324
+			cost = 150
+		}
+	}
+	Z05_100664501 = {
+		name = Vincenzo_Di_Brocchetti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100664501
+			cost = 150
+		}
+	}
+	Z05_100664682 = {
+		name = Francesco_Berlingieri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_100664682
+			cost = 150
+		}
+	}
+	Z05_117440943 = {
+		name = Giorgio_De_Renzi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_117440943
+			cost = 150
+		}
+	}
+}

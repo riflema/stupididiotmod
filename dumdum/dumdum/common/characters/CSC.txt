@@ -1,0 +1,138 @@
+characters = {
+	CSC_83889787 = {
+		name = David_Goddyn
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_land_4
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	CSC_33555961 = {
+		name = Jozef_de_Meer_de_Moorsel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_33555961
+			cost = 150
+		}
+	}
+	CSC_67112059 = {
+		name = Karel_Quarles_van_Ufford
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_67112059
+			cost = 150
+		}
+	}
+	CSC_67113643 = {
+		name = Hendrik_Jottrand
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67113643
+			cost = 150
+		}
+	}
+	CSC_83887226 = {
+		name = Bonifaas_van_der_Noot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_83887226
+			cost = 150
+		}
+	}
+	CSC_83887740 = {
+		name = Desire_Desmanet_de_Biesme
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_83887740
+			cost = 150
+		}
+	}
+	CSC_83887743 = {
+		name = Pieter_Wyvekens
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83887743
+			cost = 150
+		}
+	}
+	CSC_117440804 = {
+		name = Ignaas_Surlet_de_Chokier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_117440804
+			cost = 150
+		}
+	}
+	CSC_184553727 = {
+		name = Karel_van_Boisschot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_184553727
+			cost = 150
+		}
+	}
+}

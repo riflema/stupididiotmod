@@ -1,0 +1,28 @@
+state = {
+	id = 28
+	name = "STATE_28"
+	manpower = 3869627
+	resources = {
+		steel = 93
+	}
+
+	state_category = metropolis
+
+	history = {
+		owner = GER
+		victory_points = {
+			9503 4
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+		}
+		add_core_of = GER
+	}
+
+	provinces = {
+		549 1346 3629 6529 9503 9559 11502 
+	}
+}

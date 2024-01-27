@@ -1,0 +1,151 @@
+characters = {
+	W98_117440829 = {
+		name = JoA_o_Pinheiro
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W98_67108920 = {
+		name = Duarte_Nunes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_67108920
+			cost = 150
+		}
+	}
+	W98_67112305 = {
+		name = Francisco_Correia_de_Sa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_67112305
+			cost = 150
+		}
+	}
+	W98_83886115 = {
+		name = Vitorino_Vidigal
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_83886115
+			cost = 150
+		}
+	}
+	W98_83887168 = {
+		name = Carlos_Pinheiro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83887168
+			cost = 150
+		}
+	}
+	W98_83887840 = {
+		name = Julio_2_da_Costa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_83887840
+			cost = 150
+		}
+	}
+	W98_100666458 = {
+		name = Vitorio_da_Franca
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_100666458
+			cost = 150
+		}
+	}
+	W98_117440516 = {
+		name = Teofilo_Vilela
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_117440516
+			cost = 150
+		}
+	}
+	W98_150995062 = {
+		name = Teofilo_Keil
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_150995062
+			cost = 150
+		}
+	}
+	W98_150999064 = {
+		name = Jeronimo_de_Caula
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_150999064
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,120 @@
+characters = {
+	AHG_67112316 = {
+		name = Issouf_Ag_Alhabib
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	AHG_50333105 = {
+		name = In_Tayaden_ag_Muhammad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_50333105
+			cost = 150
+		}
+	}
+	AHG_50335371 = {
+		name = Hasso_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_50335371
+			cost = 150
+		}
+	}
+	AHG_83888710 = {
+		name = Islaman_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_83888710
+			cost = 150
+		}
+	}
+	AHG_83889857 = {
+		name = Abareybon_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_83889857
+			cost = 150
+		}
+	}
+	AHG_83890819 = {
+		name = In_Tayaden_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_83890819
+			cost = 150
+		}
+	}
+	AHG_117441139 = {
+		name = Attici_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_117441139
+			cost = 150
+		}
+	}
+	AHG_117441443 = {
+		name = Islaman_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117441443
+			cost = 150
+		}
+	}
+	AHG_134222241 = {
+		name = Aytarel_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

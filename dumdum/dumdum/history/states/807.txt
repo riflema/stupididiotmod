@@ -1,0 +1,22 @@
+state = {
+	id = 807
+	name = "STATE_807"
+	manpower = 12537
+
+	state_category = rural
+
+	history = {
+		owner = PNG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = PNG
+	}
+
+	provinces = {
+		7570 8235 10396 
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 348
+	name = "STATE_348"
+	manpower = 3701547
+	resources = {
+		chromium = 1
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		victory_points = {
+			1896 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1636 1822 1896 2071 4553 4755 4825 4901 7604 10454 10523 12793 12861 
+	}
+}

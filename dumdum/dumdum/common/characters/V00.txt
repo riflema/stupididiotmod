@@ -1,0 +1,163 @@
+characters = {
+	V00_50333326 = {
+		name = Fernando_de_Oliveira
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = rexism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	V00_33555310 = {
+		name = Kirill_Rozhestvensky
+		portraits = {
+			army = {
+				large = GFX_Portrait_Soviet_Generic_land_5
+				small = GFX_Portrait_Soviet_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer cavalry_officer politically_connected }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 3
+		}
+	}
+	V00_50332386 = {
+		name = Bartolomeu_Ribeiro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_50332386
+			cost = 150
+		}
+	}
+	V00_50335345 = {
+		name = Damiao_de_Caula
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_50335345
+			cost = 150
+		}
+	}
+	V00_83890106 = {
+		name = JosE__de_Queiros
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_83890106
+			cost = 150
+		}
+	}
+	V00_100665061 = {
+		name = Antonio_2_Sampaio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_100665061
+			cost = 150
+		}
+	}
+	V00_100665568 = {
+		name = Tiago_Braga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_100665568
+			cost = 150
+		}
+	}
+	V00_100665659 = {
+		name = Luis_2_de_Oliveira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	V00_100667428 = {
+		name = Artur_Ferreira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_100667428
+			cost = 150
+		}
+	}
+	V00_117443806 = {
+		name = Vicente_de_Paiva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_117443806
+			cost = 150
+		}
+	}
+	V00_134220377 = {
+		name = Filipe_Pires
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_134220377
+			cost = 150
+		}
+	}
+}

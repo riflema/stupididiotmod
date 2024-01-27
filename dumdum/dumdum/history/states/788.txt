@@ -1,0 +1,23 @@
+state = {
+	id = 788
+	name = "STATE_788"
+	manpower = 30244
+
+	state_category = rural
+
+	history = {
+		owner = CSC
+		victory_points = {
+			12371 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		7529 12371 
+	}
+}

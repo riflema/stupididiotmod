@@ -1,0 +1,32 @@
+state = {
+	id = 8
+	name = "STATE_8"
+	manpower = 4447809
+	resources = {
+		steel = 78
+	}
+
+	state_category = megalopolis
+
+	history = {
+		owner = PLC
+		victory_points = {
+			6554 6
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			6420 = {
+				naval_base = 0
+			}
+			air_base = 4
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		429 453 472 486 502 523 547 570 588 767 3399 3409 3421 3449 3466 3479 3491 3573 3767 6420 6474 6493 6505 6519 6530 6554 6596 6771 6776 9419 9433 9446 9461 9463 9476 9479 9531 9556 9571 9729 11405 11422 11437 11439 11452 11461 11487 11513 11541 11700 
+	}
+}

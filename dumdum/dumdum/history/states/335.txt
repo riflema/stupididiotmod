@@ -1,0 +1,27 @@
+state = {
+	id = 335
+	name = "STATE_335"
+	manpower = 384123
+	resources = {
+		tungsten = 20
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X32
+		victory_points = {
+			4607 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = X32
+	}
+
+	provinces = {
+		1862 4521 4607 4736 4799 4816 7756 7827 7879 10422 10591 12134 12399 12425 
+	}
+}

@@ -1,0 +1,138 @@
+characters = {
+	Z14_100664004 = {
+		name = Felipe_de_Carvajal
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_land_1
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	Z14_67108922 = {
+		name = Marcelo_Escoda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_67108922
+			cost = 150
+		}
+	}
+	Z14_67109099 = {
+		name = Baltasar_Fitz-James_Stuart
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_67109099
+			cost = 150
+		}
+	}
+	Z14_100664680 = {
+		name = Bernardino_Villota
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_100664680
+			cost = 150
+		}
+	}
+	Z14_117440950 = {
+		name = Diego_Marquez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_117440950
+			cost = 150
+		}
+	}
+	Z14_117441553 = {
+		name = Pablo_Zamora
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_117441553
+			cost = 150
+		}
+	}
+	Z14_117443362 = {
+		name = Pedro_de_Bernuy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_117443362
+			cost = 150
+		}
+	}
+	Z14_134218011 = {
+		name = Federico_MelE_ndez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_134218011
+			cost = 150
+		}
+	}
+	Z14_167776936 = {
+		name = Jose_Maria_Vallana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_167776936
+			cost = 150
+		}
+	}
+}

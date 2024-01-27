@@ -1,0 +1,123 @@
+characters = {
+	Z03_67109449 = {
+		name = Epameinontas_Seos
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	Z03_67109504 = {
+		name = Emmanouil_Konstantas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_67109504
+			cost = 150
+		}
+	}
+	Z03_83887099 = {
+		name = Lykourgos_Pavlidis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_83887099
+			cost = 150
+		}
+	}
+	Z03_83888360 = {
+		name = Antonios_Vasos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_83888360
+			cost = 150
+		}
+	}
+	Z03_100663850 = {
+		name = Epameinontas_Pepanos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100663850
+			cost = 150
+		}
+	}
+	Z03_100663910 = {
+		name = Anthimos_Kaskaris
+		portraits = {
+			navy = {
+				large = GFX_portrait_europe_generic_navy_4
+				small = GFX_portrait_europe_generic_navy_4_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_100663910
+			cost = 150
+		}
+	}
+	Z03_100665041 = {
+		name = Trifon_Paraskevopoulos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_100665041
+			cost = 150
+		}
+	}
+	Z03_117440606 = {
+		name = Theodoros_Levidis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_117440606
+			cost = 150
+		}
+	}
+}

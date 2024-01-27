@@ -1,0 +1,137 @@
+characters = {
+	PLT_83886221 = {
+		name = Filipe_de_Lima_e_Silva
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	PLT_50335894 = {
+		name = en_Cleve_dyn_en_Alford
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_50335894
+			cost = 150
+		}
+	}
+	PLT_67109265 = {
+		name = Isaias_Bernardes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67109265
+			cost = 150
+		}
+	}
+	PLT_83886119 = {
+		name = Paulo_Maurity
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { old_guard trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_83886119
+			cost = 150
+		}
+	}
+	PLT_83890741 = {
+		name = en_Amyas_dyn_en_Bray
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_83890741
+			cost = 150
+		}
+	}
+	PLT_117444496 = {
+		name = Luis_2_Moreira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_117444496
+			cost = 150
+		}
+	}
+	PLT_117445270 = {
+		name = en_Crispin_dyn_en_Walton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117445270
+			cost = 150
+		}
+	}
+	PLT_134218127 = {
+		name = en_Ben_dyn_en_Simmons
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_134218127
+			cost = 150
+		}
+	}
+	PLT_134219401 = {
+		name = en_Aubrey_dyn_en_Hodges
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_134219401
+			cost = 150
+		}
+	}
+}

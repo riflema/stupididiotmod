@@ -1,0 +1,157 @@
+characters = {
+	W90_83889662 = {
+		name = Bahayeddin_Giray
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { inflexible_strategist ranger }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	W90_50331975 = {
+		name = Abd_al-Ahad_Bukhari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_50331975
+			cost = 150
+		}
+	}
+	W90_50334240 = {
+		name = Qutlugh_Bukhari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_50334240
+			cost = 150
+		}
+	}
+	W90_67109229 = {
+		name = Nasrallah_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_67109229
+			cost = 150
+		}
+	}
+	W90_67112856 = {
+		name = Daud_Giray
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W90_83886336 = {
+		name = Nasrallah_Gulkhani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_83886336
+			cost = 150
+		}
+	}
+	W90_83888692 = {
+		name = Husayn_Bukhari
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { grand_battle_plan_expert }
+			slot = political_advisor
+			idea_token = i_83888692
+			cost = 150
+		}
+	}
+	W90_100664212 = {
+		name = Iltazar_Bahadur
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_100664212
+			cost = 150
+		}
+	}
+	W90_150995879 = {
+		name = Isfandiyar_Bahadur
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_150995879
+			cost = 150
+		}
+	}
+	W90_167774262 = {
+		name = Jahangir_Bahadur
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_167774262
+			cost = 150
+		}
+	}
+}

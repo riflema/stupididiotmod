@@ -1,0 +1,24 @@
+state = {
+	id = 596
+	name = "STATE_596"
+	manpower = 150541
+	resources = {
+		steel = 0
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		11014 12941 
+	}
+}

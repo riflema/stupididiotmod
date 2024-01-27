@@ -1,0 +1,162 @@
+characters = {
+	ETH_16780707 = {
+		name = Kelile_Abateid
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	ETH_50333846 = {
+		name = Saleh_Ali_Aba_Deyas
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_4
+				small = GFX_portrait_ETH_generic_male_4_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_50333846
+			cost = 150
+		}
+	}
+	ETH_67110314 = {
+		name = Negasi_Cherecha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_67110314
+			cost = 150
+		}
+	}
+	ETH_67111009 = {
+		name = Yilma_Gemeda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_67111009
+			cost = 150
+		}
+	}
+	ETH_67112315 = {
+		name = Kelile_Mikael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_67112315
+			cost = 150
+		}
+	}
+	ETH_83889533 = {
+		name = Desta_Abateid
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_83889533
+			cost = 150
+		}
+	}
+	ETH_83890835 = {
+		name = Adongo_Kandie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_83890835
+			cost = 150
+		}
+	}
+	ETH_100667017 = {
+		name = Cabdulle_Diiriye
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_100667017
+			cost = 150
+		}
+	}
+	ETH_117440641 = {
+		name = Kelile_Melekot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_117440641
+			cost = 150
+		}
+	}
+	ETH_134218715 = {
+		name = Cumar_Galaal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_134218715
+			cost = 150
+		}
+	}
+}

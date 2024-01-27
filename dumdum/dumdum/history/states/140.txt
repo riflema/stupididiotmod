@@ -1,0 +1,32 @@
+state = {
+	id = 140
+	name = "STATE_140"
+	manpower = 1543131
+	resources = {
+		aluminium = 22
+	}
+
+	state_category = town
+
+	history = {
+		owner = SCA
+		victory_points = {
+			9296 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			122 = {
+				naval_base = 6
+			}
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		14 53 65 100 122 137 144 199 3049 3059 3090 3094 3114 3129 3180 3188 3192 6072 6080 6145 6151 6176 6184 6216 9036 9047 9096 9103 9170 9174 9196 9204 9296 11029 11101 11176 11198 11367 
+	}
+}

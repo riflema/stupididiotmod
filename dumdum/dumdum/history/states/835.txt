@@ -1,0 +1,22 @@
+state = {
+	id = 835
+	name = "STATE_835"
+	manpower = 19692
+
+	state_category = rural
+
+	history = {
+		owner = W98
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = W98
+	}
+
+	provinces = {
+		1280 
+	}
+}

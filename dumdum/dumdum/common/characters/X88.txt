@@ -1,0 +1,123 @@
+characters = {
+	X88_100664284 = {
+		name = Athanase_Suchet
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			traits = {  }
+		}
+	}
+	X88_67109253 = {
+		name = Pascal_Bezanson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_67109253
+			cost = 150
+		}
+	}
+	X88_67109527 = {
+		name = Pascal_Deloffre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_67109527
+			cost = 150
+		}
+	}
+	X88_67110771 = {
+		name = Christophe_Rouher
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_67110771
+			cost = 150
+		}
+	}
+	X88_83886906 = {
+		name = Aimable_Sobrier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_83886906
+			cost = 150
+		}
+	}
+	X88_83886954 = {
+		name = Alexandre_Gros
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83886954
+			cost = 150
+		}
+	}
+	X88_83887868 = {
+		name = Cyprien_Duboc
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_83887868
+			cost = 150
+		}
+	}
+	X88_100666565 = {
+		name = Germain_de_Gaulle
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_8
+				small = GFX_Portrait_France_Generic_land_8_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox infantry_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_100666565
+			cost = 150
+		}
+	}
+}

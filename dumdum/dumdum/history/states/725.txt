@@ -1,0 +1,26 @@
+state = {
+	id = 725
+	name = "STATE_725"
+	manpower = 23265
+	resources = {
+		rubber = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ITA
+		victory_points = {
+			10968 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		10968 
+	}
+}

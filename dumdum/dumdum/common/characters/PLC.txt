@@ -1,0 +1,137 @@
+characters = {
+	PLC_1000 = {
+		name = The_Council
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			traits = {  }
+		}
+	}
+	PLC_33554794 = {
+		name = Wojciech_Mieroslawski
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { career_officer desert_fox }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_33554794
+			cost = 150
+		}
+	}
+	PLC_50332265 = {
+		name = Kazimierz_Rola-Zymierski
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_50332265
+			cost = 150
+		}
+	}
+	PLC_50333836 = {
+		name = Ludwik_Wieniawa-Dlugoszowski
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_50333836
+			cost = 150
+		}
+	}
+	PLC_83886386 = {
+		name = Samuel_Madalinski
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_83886386
+			cost = 150
+		}
+	}
+	PLC_83890422 = {
+		name = Lucjan_Dembinski
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_83890422
+			cost = 150
+		}
+	}
+	PLC_100663545 = {
+		name = Stanislaw_Zaluski
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_100663545
+			cost = 150
+		}
+	}
+	PLC_117441025 = {
+		name = Dezydery_Chlopicki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_117441025
+			cost = 150
+		}
+	}
+	PLC_201327746 = {
+		name = Antoni_Maklowicz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_201327746
+			cost = 150
+		}
+	}
+}

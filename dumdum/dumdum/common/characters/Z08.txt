@@ -1,0 +1,123 @@
+characters = {
+	Z08_100667753 = {
+		name = Nikos_Seos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_5
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	Z08_50336259 = {
+		name = Leonidas_Mavrommatis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_50336259
+			cost = 150
+		}
+	}
+	Z08_100663312 = {
+		name = Anastasios_Moustakopoulos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100663312
+			cost = 150
+		}
+	}
+	Z08_100664852 = {
+		name = Sokratis_Marmoras
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_100664852
+			cost = 150
+		}
+	}
+	Z08_100665727 = {
+		name = Stylianos_Mazoukas
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_100665727
+			cost = 150
+		}
+	}
+	Z08_134217812 = {
+		name = Beniamin_Paraskevopoulos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_134217812
+			cost = 150
+		}
+	}
+	Z08_167776562 = {
+		name = Panos_Dontis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_167776562
+			cost = 150
+		}
+	}
+	Z08_184549534 = {
+		name = Stephanos_Papailiopoulos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_184549534
+			cost = 150
+		}
+	}
+}

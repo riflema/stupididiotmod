@@ -1,0 +1,27 @@
+state = {
+	id = 340
+	name = "STATE_340"
+	manpower = 485622
+	resources = {
+		aluminium = 7
+	}
+
+	state_category = rural
+
+	history = {
+		owner = USA
+		victory_points = {
+			6710 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = USA
+	}
+
+	provinces = {
+		691 695 6710 6769 9684 11641 11656 11685 
+	}
+}

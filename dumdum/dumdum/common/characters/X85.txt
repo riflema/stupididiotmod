@@ -1,0 +1,151 @@
+characters = {
+	X85_33557348 = {
+		name = Boleslaw_Piast
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X85_50332336 = {
+		name = Miloslav_Bazlic
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_50332336
+			cost = 150
+		}
+	}
+	X85_50334035 = {
+		name = Emil_Piast
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_50334035
+			cost = 150
+		}
+	}
+	X85_50334341 = {
+		name = Gyula_Osterreicher
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_50334341
+			cost = 150
+		}
+	}
+	X85_50334391 = {
+		name = Peter_2_Szemere
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_50334391
+			cost = 150
+		}
+	}
+	X85_67112166 = {
+		name = Kelemen_Szemere
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_67112166
+			cost = 150
+		}
+	}
+	X85_67112580 = {
+		name = Beni_Osterreicher
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_67112580
+			cost = 150
+		}
+	}
+	X85_83890067 = {
+		name = Nicolae_Frimu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_83890067
+			cost = 150
+		}
+	}
+	X85_117441092 = {
+		name = Dezider_Mednansky
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_117441092
+			cost = 150
+		}
+	}
+	X85_201326730 = {
+		name = Grigore_Hurmuzachi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_201326730
+			cost = 150
+		}
+	}
+}

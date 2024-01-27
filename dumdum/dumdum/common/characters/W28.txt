@@ -1,0 +1,112 @@
+characters = {
+	W28_50334797 = {
+		name = Jacques_de_Melin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_4
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	W28_67108963 = {
+		name = Gilles_de_Behr
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_67108963
+			cost = 150
+		}
+	}
+	W28_83887250 = {
+		name = Barthelemy_de_Selys_Longchamps
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_83887250
+			cost = 150
+		}
+	}
+	W28_117440968 = {
+		name = Blaise_Huysman_d_Annecroix
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_117440968
+			cost = 150
+		}
+	}
+	W28_117442030 = {
+		name = Emmanuel_Berthels
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_117442030
+			cost = 150
+		}
+	}
+	W28_117442236 = {
+		name = Charles_d_Udekem
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_117442236
+			cost = 150
+		}
+	}
+	W28_134220460 = {
+		name = Pascal_d_Udekem
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_134220460
+			cost = 150
+		}
+	}
+	W28_167772498 = {
+		name = Clement_Claus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_167772498
+			cost = 150
+		}
+	}
+}

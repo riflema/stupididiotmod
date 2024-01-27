@@ -1,0 +1,24 @@
+state = {
+	id = 722
+	name = "STATE_722"
+	manpower = 235210
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			8052 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1960 5060 8052 10739 
+	}
+}

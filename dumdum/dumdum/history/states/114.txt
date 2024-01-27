@@ -1,0 +1,33 @@
+state = {
+	id = 114
+	name = "STATE_114"
+	manpower = 3075111
+	resources = {
+		oil = 6
+		steel = 40
+		tungsten = 8
+	}
+
+	state_category = large_town
+
+	history = {
+		owner = GCO
+		victory_points = {
+			2023 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			8056 = {
+				naval_base = 4
+			}
+			air_base = 6
+		}
+		add_core_of = GCO
+	}
+
+	provinces = {
+		1937 2023 2085 4969 8056 10494 10864 12703 12790 12845 12872 
+	}
+}

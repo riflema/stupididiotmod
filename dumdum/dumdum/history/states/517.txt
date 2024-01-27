@@ -1,0 +1,24 @@
+state = {
+	id = 517
+	name = "STATE_517"
+	manpower = 171087
+
+	state_category = rural
+
+	history = {
+		owner = GER
+		victory_points = {
+			9598 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = GER
+	}
+
+	provinces = {
+		656 6631 6675 9598 9630 11598 11615 
+	}
+}

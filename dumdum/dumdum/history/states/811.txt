@@ -1,0 +1,22 @@
+state = {
+	id = 811
+	name = "STATE_811"
+	manpower = 19938
+
+	state_category = rural
+
+	history = {
+		owner = FLA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = FLA
+	}
+
+	provinces = {
+		1546 10436 
+	}
+}

@@ -1,0 +1,31 @@
+state = {
+	id = 237
+	name = "STATE_237"
+	manpower = 1749135
+	resources = {
+		aluminium = 1
+		chromium = 1
+		steel = 9
+	}
+
+	state_category = town
+
+	history = {
+		owner = TUN
+		victory_points = {
+			4046 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			air_base = 5
+		}
+		add_core_of = TUN
+	}
+
+	provinces = {
+		1141 4046 4970 5053 7065 7149 9943 9976 10059 12034 12888 13077 
+	}
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 486
+	name = "STATE_486"
+	manpower = 1095250
+	resources = {
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		victory_points = {
+			1179 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12774 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1179 4990 5043 5075 7847 7917 7975 8066 10813 12761 12774 
+	}
+}

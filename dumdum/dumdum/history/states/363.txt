@@ -1,0 +1,31 @@
+state = {
+	id = 363
+	name = "STATE_363"
+	manpower = 398567
+	resources = {
+		steel = 1
+		tungsten = 3
+	}
+
+	state_category = town
+
+	history = {
+		owner = AST
+		victory_points = {
+			1814 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			4543 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = AST
+	}
+
+	provinces = {
+		1565 1713 1746 1786 1801 1814 4543 4615 4718 4748 4804 7692 7742 7783 7826 7887 10334 10373 10609 10710 12362 12604 12617 12664 
+	}
+}

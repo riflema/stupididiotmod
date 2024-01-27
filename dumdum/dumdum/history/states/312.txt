@@ -1,0 +1,27 @@
+state = {
+	id = 312
+	name = "STATE_312"
+	manpower = 684862
+	resources = {
+		steel = 7
+		tungsten = 13
+	}
+
+	state_category = town
+
+	history = {
+		owner = GER
+		victory_points = {
+			12795 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		191 1516 1929 1968 4515 12795 12907 
+	}
+}

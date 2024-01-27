@@ -1,0 +1,30 @@
+state = {
+	id = 440
+	name = "STATE_440"
+	manpower = 1190768
+	resources = {
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = HYD
+		victory_points = {
+			7260 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10201 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = HYD
+	}
+
+	provinces = {
+		1213 4219 7260 7344 10201 10229 10287 12258 
+	}
+}

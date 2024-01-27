@@ -1,0 +1,123 @@
+characters = {
+	UNL_33555169 = {
+		name = Charles_Rouen
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	UNL_33559176 = {
+		name = Adolphe_van_Hoobrouck
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_33559176
+			cost = 150
+		}
+	}
+	UNL_100664840 = {
+		name = Camille_De_Smedt
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100664840
+			cost = 150
+		}
+	}
+	UNL_100666489 = {
+		name = Willem_van_Zuylen_van_Nyevelt
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_2
+				small = GFX_Portrait_Europe_Generic_navy_2_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { bold chief_engineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_100666489
+			cost = 150
+		}
+	}
+	UNL_100666933 = {
+		name = Alphonse_Annez_de_Zillebroeck
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_100666933
+			cost = 150
+		}
+	}
+	UNL_117440873 = {
+		name = Edmond_du_Bois
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_117440873
+			cost = 150
+		}
+	}
+	UNL_134220033 = {
+		name = Filip_Verseyden_de_Varick
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_134220033
+			cost = 150
+		}
+	}
+	UNL_134221027 = {
+		name = Olivier_de_Laguiche
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_134221027
+			cost = 150
+		}
+	}
+}

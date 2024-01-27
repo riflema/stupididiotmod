@@ -1,0 +1,32 @@
+state = {
+	id = 232
+	name = "STATE_232"
+	manpower = 1491948
+	resources = {
+		chromium = 13
+	}
+
+	state_category = town
+
+	history = {
+		owner = HBC
+		victory_points = {
+			7361 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			7361 = {
+				naval_base = 1
+			}
+			air_base = 1
+		}
+		add_core_of = HBC
+	}
+
+	provinces = {
+		634 1354 1424 4285 4342 4360 4362 4430 4432 4623 7304 7361 7379 7644 10244 12289 
+	}
+}

@@ -1,0 +1,31 @@
+state = {
+	id = 126
+	name = "STATE_126"
+	manpower = 1585795
+	resources = {
+		oil = 40
+	}
+
+	state_category = town
+
+	history = {
+		owner = UNL
+		victory_points = {
+			11318 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			6336 = {
+				naval_base = 2
+			}
+			air_base = 1
+		}
+		add_core_of = UNL
+	}
+
+	provinces = {
+		6286 6336 9309 9335 9403 11318 
+	}
+}

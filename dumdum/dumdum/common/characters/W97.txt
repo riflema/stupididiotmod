@@ -1,0 +1,137 @@
+characters = {
+	W97_33554871 = {
+		name = Pedro_de_Oliveira
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = gen_nazism
+			traits = {  }
+		}
+	}
+	W97_16779078 = {
+		name = Fernando_de_Oliveira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_16779078
+			cost = 150
+		}
+	}
+	W97_67109964 = {
+		name = Ignacio_2_Capelo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { military_theorist }
+			slot = political_advisor
+			idea_token = i_67109964
+			cost = 150
+		}
+	}
+	W97_100666219 = {
+		name = Vicente_Rodrigues
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100666219
+			cost = 150
+		}
+	}
+	W97_100666771 = {
+		name = Vitorio_Dias
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_100666771
+			cost = 150
+		}
+	}
+	W97_117441378 = {
+		name = Manuel_Teixeira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117441378
+			cost = 150
+		}
+	}
+	W97_117442529 = {
+		name = Adriano_de_Queiros
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117442529
+			cost = 150
+		}
+	}
+	W97_134222092 = {
+		name = Francisco_de_Albuquerque
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_134222092
+			cost = 150
+		}
+	}
+	W97_150995920 = {
+		name = Eugenio_de_Moura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_150995920
+			cost = 150
+		}
+	}
+}

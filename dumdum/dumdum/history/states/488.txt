@@ -1,0 +1,24 @@
+state = {
+	id = 488
+	name = "STATE_488"
+	manpower = 2987710
+
+	state_category = town
+
+	history = {
+		owner = Z00
+		victory_points = {
+			2025 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = Z00
+	}
+
+	provinces = {
+		1969 2025 4972 
+	}
+}

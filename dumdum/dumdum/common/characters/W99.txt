@@ -1,0 +1,134 @@
+characters = {
+	W99_100665074 = {
+		name = Manuel_de_Braganca-Coburgo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W99_67112936 = {
+		name = Miguel_de_Braganca-Coburgo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W99_83886621 = {
+		name = Afonso_Ribeiro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_83886621
+			cost = 150
+		}
+	}
+	W99_83886757 = {
+		name = Andre_Ortigao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_83886757
+			cost = 150
+		}
+	}
+	W99_83887096 = {
+		name = David_de_Albuquerque
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_83887096
+			cost = 150
+		}
+	}
+	W99_83887132 = {
+		name = Caetano_Correia_de_Sa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_83887132
+			cost = 150
+		}
+	}
+	W99_83890868 = {
+		name = Artur_Coutinho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_83890868
+			cost = 150
+		}
+	}
+	W99_117440697 = {
+		name = Pedro_Machado
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_117440697
+			cost = 150
+		}
+	}
+	W99_117442002 = {
+		name = Christovao_Tavares
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_117442002
+			cost = 150
+		}
+	}
+	W99_150997213 = {
+		name = Luis_2_Rangel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_150997213
+			cost = 150
+		}
+	}
+}

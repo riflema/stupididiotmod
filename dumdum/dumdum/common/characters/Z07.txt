@@ -1,0 +1,123 @@
+characters = {
+	Z07_100667756 = {
+		name = Efstathios_Boufis
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = {  }
+		}
+	}
+	Z07_33555272 = {
+		name = Nikos_Papasymeon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_33555272
+			cost = 150
+		}
+	}
+	Z07_67108889 = {
+		name = Iason_Karagiannis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_67108889
+			cost = 150
+		}
+	}
+	Z07_67112619 = {
+		name = Lykourgos_Ypsilantis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_67112619
+			cost = 150
+		}
+	}
+	Z07_100665634 = {
+		name = Panagiotis_Papagiannis
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { organizer ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { mastermind_code_cracker }
+			slot = political_advisor
+			idea_token = i_100665634
+			cost = 150
+		}
+	}
+	Z07_117440562 = {
+		name = Evangelos_Lamprakis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_117440562
+			cost = 150
+		}
+	}
+	Z07_117440793 = {
+		name = Themistoklis_Kaskaris
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_117440793
+			cost = 150
+		}
+	}
+	Z07_150995519 = {
+		name = Stephanos_Psychas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_150995519
+			cost = 150
+		}
+	}
+}

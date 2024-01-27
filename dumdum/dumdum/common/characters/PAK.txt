@@ -1,0 +1,137 @@
+characters = {
+	PAK_16781392 = {
+		name = Nasrallah_Tughluq
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	PAK_33556262 = {
+		name = Rahmatullah_Khan
+		portraits = {
+			army = {
+				large = GFX_idea_unknown
+				small = GFX_idea_unknown_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer inflexible_strategist }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { democratic_crusader }
+			slot = political_advisor
+			idea_token = i_33556262
+			cost = 150
+		}
+	}
+	PAK_33556390 = {
+		name = Abd_al-Ahad_Tughluq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_33556390
+			cost = 150
+		}
+	}
+	PAK_33556490 = {
+		name = Salman_Mengal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_33556490
+			cost = 150
+		}
+	}
+	PAK_50334046 = {
+		name = Muhammad_Alokzai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_50334046
+			cost = 150
+		}
+	}
+	PAK_67113349 = {
+		name = Ahmad_Bugti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_67113349
+			cost = 150
+		}
+	}
+	PAK_83886882 = {
+		name = Haydar_Jan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_83886882
+			cost = 150
+		}
+	}
+	PAK_83890636 = {
+		name = Nadir_Taunsvi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_83890636
+			cost = 150
+		}
+	}
+	PAK_134218767 = {
+		name = Nau_Kaur
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_134218767
+			cost = 150
+		}
+	}
+}

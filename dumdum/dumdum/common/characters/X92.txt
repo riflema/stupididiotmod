@@ -1,0 +1,129 @@
+characters = {
+	X92_184551281 = {
+		name = Umar_Kadafo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ETH_generic_male_1
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	X92_50332075 = {
+		name = Amda_Aydahis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_50332075
+			cost = 150
+		}
+	}
+	X92_50332592 = {
+		name = Hanfere_Seyon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_50332592
+			cost = 150
+		}
+	}
+	X92_100664379 = {
+		name = Umar_Jasa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_100664379
+			cost = 150
+		}
+	}
+	X92_100665483 = {
+		name = Kedafu_Seyon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_100665483
+			cost = 150
+		}
+	}
+	X92_117442863 = {
+		name = Alimirah_Hanfadhe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_117442863
+			cost = 150
+		}
+	}
+	X92_134217933 = {
+		name = Baeda_Yayyo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_134217933
+			cost = 150
+		}
+	}
+	X92_134220187 = {
+		name = Hanfere_Maryam
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_2
+				small = GFX_portrait_ETH_generic_male_2_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer old_guard }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X92_167774380 = {
+		name = Sabraddin_Yayyo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_167774380
+			cost = 150
+		}
+	}
+}

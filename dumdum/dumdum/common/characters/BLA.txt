@@ -1,0 +1,143 @@
+characters = {
+	BLA_83886229 = {
+		name = Kaoua_Hortense
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	BLA_67111838 = {
+		name = Yavala_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_67111838
+			cost = 150
+		}
+	}
+	BLA_83886401 = {
+		name = Yavala_Dovi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_83886401
+			cost = 150
+		}
+	}
+	BLA_83886813 = {
+		name = Tamavunisa_Cakobau
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_83886813
+			cost = 150
+		}
+	}
+	BLA_83886885 = {
+		name = Ralulu_Tyuienon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83886885
+			cost = 150
+		}
+	}
+	BLA_83890582 = {
+		name = Ralulu_Sukuna
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BLA_100664751 = {
+		name = Kanendjo_Tupou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_100664751
+			cost = 150
+		}
+	}
+	BLA_117440618 = {
+		name = Ti-Toorou_Sukuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_117440618
+			cost = 150
+		}
+	}
+	BLA_117441830 = {
+		name = Yavala_Tyuienon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_117441830
+			cost = 150
+		}
+	}
+	BLA_251659327 = {
+		name = Ti-Abel_Cakobau
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_251659327
+			cost = 150
+		}
+	}
+}

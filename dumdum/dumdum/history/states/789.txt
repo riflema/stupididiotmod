@@ -1,0 +1,31 @@
+state = {
+	id = 789
+	name = "STATE_789"
+	manpower = 19978
+	resources = {
+		rubber = 0
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = GCO
+		victory_points = {
+			7630 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			7630 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = GCO
+	}
+
+	provinces = {
+		1633 4611 4624 7630 10482 
+	}
+}

@@ -1,0 +1,173 @@
+characters = {
+	JAP_50333419 = {
+		name = Hwan_Nam
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	JAP_50336098 = {
+		name = Samata_Jutoku
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Japan_Generic_navy_2
+				small = GFX_Portrait_Japan_Generic_navy_2_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { craven }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+		advisor = {
+			traits = { naval_theorist }
+			slot = political_advisor
+			idea_token = i_50336098
+			cost = 150
+		}
+	}
+	JAP_67111933 = {
+		name = Yoshifuru_Minami
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_67111933
+			cost = 150
+		}
+	}
+	JAP_67112884 = {
+		name = Geum_Nam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_67112884
+			cost = 150
+		}
+	}
+	JAP_83889449 = {
+		name = Yoshinobu_Hayashi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Japan_Generic_land_2
+				small = GFX_Portrait_Japan_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { democratic_crusader }
+			slot = political_advisor
+			idea_token = i_83889449
+			cost = 150
+		}
+	}
+	JAP_100663444 = {
+		name = Mitsue_Ito
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_100663444
+			cost = 150
+		}
+	}
+	JAP_100664182 = {
+		name = Maresuke_Tokugawa
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Japan_Generic_navy_1
+				small = GFX_Portrait_Japan_Generic_navy_1_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert craven }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_100664182
+			cost = 150
+		}
+	}
+	JAP_117441098 = {
+		name = Soroku_Sato
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_117441098
+			cost = 150
+		}
+	}
+	JAP_134218266 = {
+		name = Shinsaku_Kabayama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_134218266
+			cost = 150
+		}
+	}
+	JAP_134221937 = {
+		name = Masujiro_Kuroki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_134221937
+			cost = 150
+		}
+	}
+}

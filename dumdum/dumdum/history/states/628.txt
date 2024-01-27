@@ -1,0 +1,27 @@
+state = {
+	id = 628
+	name = "STATE_628"
+	manpower = 429785
+	resources = {
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = KOR
+		victory_points = {
+			957 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = KOR
+	}
+
+	provinces = {
+		810 957 3815 3843 3977 6811 6989 11879 
+	}
+}

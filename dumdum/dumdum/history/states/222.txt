@@ -1,0 +1,28 @@
+state = {
+	id = 222
+	name = "STATE_222"
+	manpower = 2927721
+	resources = {
+		steel = 6
+		tungsten = 2
+	}
+
+	state_category = town
+
+	history = {
+		owner = USA
+		victory_points = {
+			12501 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		add_core_of = USA
+	}
+
+	provinces = {
+		913 1758 1987 7615 7791 7797 8014 8083 10281 10615 10657 10824 10909 12501 12670 
+	}
+}

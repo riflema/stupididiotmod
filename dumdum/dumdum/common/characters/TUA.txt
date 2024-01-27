@@ -1,0 +1,152 @@
+characters = {
+	TUA_33554641 = {
+		name = Islaman_Ikhia
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { career_officer inflexible_strategist old_guard unyielding_defender }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	TUA_33554562 = {
+		name = Abareybon_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_33554562
+			cost = 150
+		}
+	}
+	TUA_67112462 = {
+		name = Hasso_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_67112462
+			cost = 150
+		}
+	}
+	TUA_83887545 = {
+		name = Majila_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_83887545
+			cost = 150
+		}
+	}
+	TUA_83888435 = {
+		name = Musa_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_83888435
+			cost = 150
+		}
+	}
+	TUA_100664648 = {
+		name = Kiddu_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_100664648
+			cost = 150
+		}
+	}
+	TUA_100665237 = {
+		name = Hasso_ag_Muhammad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_100665237
+			cost = 150
+		}
+	}
+	TUA_100666735 = {
+		name = Islaman_ag_Amellal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_100666735
+			cost = 150
+		}
+	}
+	TUA_117442129 = {
+		name = Moussa_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_117442129
+			cost = 150
+		}
+	}
+	TUA_134218191 = {
+		name = Aytarel_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_134218191
+			cost = 150
+		}
+	}
+}

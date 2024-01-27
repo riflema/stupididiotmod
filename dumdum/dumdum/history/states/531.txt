@@ -1,0 +1,26 @@
+state = {
+	id = 531
+	name = "STATE_531"
+	manpower = 3013101
+	resources = {
+		rubber = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = TEX
+		victory_points = {
+			1965 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1965 7913 8089 
+	}
+}

@@ -1,0 +1,173 @@
+characters = {
+	SOV_16777670 = {
+		name = Baqi_Lobanov-Rostovsky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	SOV_50332572 = {
+		name = Oleg_Orlov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Soviet_Generic_land_2
+				small = GFX_Portrait_Soviet_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { career_officer desert_fox engineer_officer }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_50332572
+			cost = 150
+		}
+	}
+	SOV_50333780 = {
+		name = Fyodor_Brusilov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Soviet_Generic_land_4
+				small = GFX_Portrait_Soviet_Generic_land_4_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_50333780
+			cost = 150
+		}
+	}
+	SOV_67110054 = {
+		name = Grand_Duke_Nicholas_Romanov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Soviet_Generic_land_8
+				small = GFX_Portrait_Soviet_Generic_land_8_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer inflexible_strategist politically_connected }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_67110054
+			cost = 150
+		}
+	}
+	SOV_67111681 = {
+		name = Vladimir_Yegorov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_67111681
+			cost = 150
+		}
+	}
+	SOV_67113318 = {
+		name = Rustam_Lobanov-Rostovsky
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_67113318
+			cost = 150
+		}
+	}
+	SOV_83889642 = {
+		name = Anton_Golovin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_83889642
+			cost = 150
+		}
+	}
+	SOV_134219000 = {
+		name = Boris_Golovin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_134219000
+			cost = 150
+		}
+	}
+	SOV_150996576 = {
+		name = Kirill_Konstantinov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_150996576
+			cost = 150
+		}
+	}
+	SOV_167774943 = {
+		name = Vladislav_Lazarev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_167774943
+			cost = 150
+		}
+	}
+}

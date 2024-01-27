@@ -1,0 +1,112 @@
+characters = {
+	FRA_33555590 = {
+		name = Paul_Dosser
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_4
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			traits = {  }
+		}
+	}
+	FRA_67108965 = {
+		name = ThE_obald_Joffre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_67108965
+			cost = 150
+		}
+	}
+	FRA_67109761 = {
+		name = Guillaume_Avond
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_67109761
+			cost = 150
+		}
+	}
+	FRA_67113327 = {
+		name = Vincent_Emmery
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_67113327
+			cost = 150
+		}
+	}
+	FRA_67113401 = {
+		name = Maurice_Aucouturier
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_67113401
+			cost = 150
+		}
+	}
+	FRA_100663524 = {
+		name = Felix_de_Goyon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_100663524
+			cost = 150
+		}
+	}
+	FRA_100666962 = {
+		name = Just_Bezanson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100666962
+			cost = 150
+		}
+	}
+	FRA_150996651 = {
+		name = Oscar_de_Langle_de_Cary
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_150996651
+			cost = 150
+		}
+	}
+}

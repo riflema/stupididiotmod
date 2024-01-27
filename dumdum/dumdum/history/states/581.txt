@@ -1,0 +1,25 @@
+state = {
+	id = 581
+	name = "STATE_581"
+	manpower = 88149
+
+	state_category = rural
+
+	history = {
+		owner = HBC
+		victory_points = {
+			7185 20
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = HBC
+	}
+
+	provinces = {
+		5239 7185 10605 
+	}
+}

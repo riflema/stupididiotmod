@@ -1,0 +1,24 @@
+state = {
+	id = 615
+	name = "STATE_615"
+	manpower = 613894
+	resources = {
+		chromium = 0
+	}
+
+	state_category = town
+
+	history = {
+		owner = KOR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = KOR
+	}
+
+	provinces = {
+		944 973 3944 6806 6964 9766 9897 
+	}
+}

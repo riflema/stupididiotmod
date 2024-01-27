@@ -1,0 +1,146 @@
+characters = {
+	DOM_67111138 = {
+		name = Mariano_Baez
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = gen_nazism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard organizer thorough_planner }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	DOM_33556038 = {
+		name = Alejandro_Vazquez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_33556038
+			cost = 150
+		}
+	}
+	DOM_33558135 = {
+		name = Gerardo_de_Ortega
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_33558135
+			cost = 150
+		}
+	}
+	DOM_50332746 = {
+		name = Antonio_Machado
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_50332746
+			cost = 150
+		}
+	}
+	DOM_67110772 = {
+		name = Ambrosio_Bayo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_67110772
+			cost = 150
+		}
+	}
+	DOM_83886468 = {
+		name = Pablo_Baez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	DOM_117440686 = {
+		name = Ceferino_Morales
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_117440686
+			cost = 150
+		}
+	}
+	DOM_134218096 = {
+		name = Alfredo_de_la_Torre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_134218096
+			cost = 150
+		}
+	}
+	DOM_150995940 = {
+		name = Joaquin_Castro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_150995940
+			cost = 150
+		}
+	}
+	DOM_150998162 = {
+		name = Ceferino_de_Gordils
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_150998162
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 634
+	name = "STATE_634"
+	manpower = 901793
+
+	state_category = rural
+
+	history = {
+		owner = PAK
+		victory_points = {
+			1961 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1961 2010 5094 8029 8068 10802 12801 
+	}
+}

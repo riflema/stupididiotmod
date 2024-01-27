@@ -1,0 +1,29 @@
+state = {
+	id = 494
+	name = "STATE_494"
+	manpower = 143816
+	resources = {
+		chromium = 0
+		rubber = 15
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = GER
+		victory_points = {
+			5199 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		697 5199 7872 10538 12504 12677 
+	}
+}

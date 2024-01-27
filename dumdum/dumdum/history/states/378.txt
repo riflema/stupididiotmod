@@ -1,0 +1,24 @@
+state = {
+	id = 378
+	name = "STATE_378"
+	manpower = 1244623
+	resources = {
+		chromium = 1
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1545 4551 5427 6863 7569 7670 9623 10215 10368 10379 10463 10519 10521 12342 12443 
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 128
+	name = "STATE_128"
+	manpower = 3299019
+	resources = {
+		tungsten = 5
+	}
+
+	state_category = large_town
+
+	history = {
+		owner = X15
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = X15
+	}
+
+	provinces = {
+		7064 7334 9973 10751 
+	}
+}

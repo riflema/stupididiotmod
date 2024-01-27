@@ -1,0 +1,134 @@
+characters = {
+	GCO_100666548 = {
+		name = dk_Svend_dyn_dk_Andreasen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Vidkun_Quisling
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = {  }
+		}
+	}
+	GCO_33556359 = {
+		name = dk_Povl_dyn_dk_Hougaard
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer old_guard organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_33556359
+			cost = 150
+		}
+	}
+	GCO_67110046 = {
+		name = Valeriano_Berriozabal
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader naval_invader old_guard }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_67110046
+			cost = 150
+		}
+	}
+	GCO_100663934 = {
+		name = Julio_Ubico
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_100663934
+			cost = 150
+		}
+	}
+	GCO_100667966 = {
+		name = Moises_Rincon_Gallardo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_100667966
+			cost = 150
+		}
+	}
+	GCO_117443904 = {
+		name = dk_Bo_dyn_dk_Mathiasen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_117443904
+			cost = 150
+		}
+	}
+	GCO_117444586 = {
+		name = Jose_Manuel_de_Romay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_117444586
+			cost = 150
+		}
+	}
+	GCO_134220103 = {
+		name = en_Quantrill_dyn_en_Drake
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_134220103
+			cost = 150
+		}
+	}
+}

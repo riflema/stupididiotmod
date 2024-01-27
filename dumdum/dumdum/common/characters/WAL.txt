@@ -1,0 +1,126 @@
+characters = {
+	WAL_50333306 = {
+		name = Virgil_Iliasevici
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_europe_generic_7
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	WAL_50331860 = {
+		name = Anton_Robescu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_50331860
+			cost = 150
+		}
+	}
+	WAL_50334388 = {
+		name = Georgios_Anthemiotes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_50334388
+			cost = 150
+		}
+	}
+	WAL_83889496 = {
+		name = Ion_Teodorescu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_83889496
+			cost = 150
+		}
+	}
+	WAL_100664060 = {
+		name = Pavlos_Anthemiotes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_100664060
+			cost = 150
+		}
+	}
+	WAL_100667277 = {
+		name = Petru_Racovita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_100667277
+			cost = 150
+		}
+	}
+	WAL_134218349 = {
+		name = Iacob_Racovita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_134218349
+			cost = 150
+		}
+	}
+	WAL_134222395 = {
+		name = Nicolae_Kogalniceanu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_134222395
+			cost = 150
+		}
+	}
+	WAL_285214030 = {
+		name = Horatiu_Suciu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_285214030
+			cost = 150
+		}
+	}
+}

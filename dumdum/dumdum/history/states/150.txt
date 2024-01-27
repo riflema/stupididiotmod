@@ -1,0 +1,29 @@
+state = {
+	id = 150
+	name = "STATE_150"
+	manpower = 1073960
+	resources = {
+		oil = 30
+		tungsten = 7
+	}
+
+	state_category = town
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			3668 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		666 670 683 700 712 728 1450 1455 3667 3668 3672 3682 3711 4463 6689 6701 6702 6730 6748 7554 7624 9628 9632 9645 9647 11609 11632 
+	}
+}

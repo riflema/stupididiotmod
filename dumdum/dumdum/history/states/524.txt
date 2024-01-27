@@ -1,0 +1,28 @@
+state = {
+	id = 524
+	name = "STATE_524"
+	manpower = 205442
+	resources = {
+		oil = 2
+		rubber = 1
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SPR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4593 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = {
+		4593 7269 7627 
+	}
+}

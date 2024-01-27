@@ -1,0 +1,28 @@
+state = {
+	id = 779
+	name = "STATE_779"
+	manpower = 17811
+	resources = {
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BRU
+		victory_points = {
+			7440 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = BRU
+	}
+
+	provinces = {
+		1428 7440 10194 12415 
+	}
+}

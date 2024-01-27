@@ -1,0 +1,30 @@
+state = {
+	id = 513
+	name = "STATE_513"
+	manpower = 232520
+	resources = {
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = POR
+		victory_points = {
+			1751 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1751 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = POR
+	}
+
+	provinces = {
+		1751 
+	}
+}

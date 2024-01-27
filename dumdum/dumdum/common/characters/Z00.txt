@@ -1,0 +1,112 @@
+characters = {
+	Z00_83887627 = {
+		name = Secondo_di_Salmour
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_6
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	Z00_50333417 = {
+		name = Cristoforo_Poerio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_50333417
+			cost = 150
+		}
+	}
+	Z00_83887864 = {
+		name = Gaspare_Arrifo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_83887864
+			cost = 150
+		}
+	}
+	Z00_83887968 = {
+		name = Cesidio_Osmani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_83887968
+			cost = 150
+		}
+	}
+	Z00_134218275 = {
+		name = Luigi_Ottaviani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_134218275
+			cost = 150
+		}
+	}
+	Z00_150996361 = {
+		name = Antonio_d_Azeglio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_150996361
+			cost = 150
+		}
+	}
+	Z00_167774473 = {
+		name = Bernardo_Cagni
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_167774473
+			cost = 150
+		}
+	}
+	Z00_201331274 = {
+		name = Augusto_Assanti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_201331274
+			cost = 150
+		}
+	}
+}

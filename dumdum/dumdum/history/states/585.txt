@@ -1,0 +1,16 @@
+state = {
+	id = 585
+	name = "STATE_585"
+	manpower = 44155
+
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = ETH
+	}
+
+	provinces = {
+		4902 
+	}
+}

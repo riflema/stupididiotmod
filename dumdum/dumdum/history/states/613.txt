@@ -1,0 +1,23 @@
+state = {
+	id = 613
+	name = "STATE_613"
+	manpower = 698543
+
+	state_category = rural
+
+	history = {
+		owner = HYD
+		victory_points = {
+			1444 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1059 1444 
+	}
+}

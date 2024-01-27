@@ -1,0 +1,25 @@
+state = {
+	id = 286
+	name = "STATE_286"
+	manpower = 17246
+	resources = {
+		oil = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PLC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		566 
+	}
+}

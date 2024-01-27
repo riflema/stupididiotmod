@@ -1,0 +1,31 @@
+state = {
+	id = 158
+	name = "STATE_158"
+	manpower = 1980235
+	resources = {
+		oil = 28
+	}
+
+	state_category = town
+
+	history = {
+		owner = GER
+		victory_points = {
+			9347 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			374 = {
+				naval_base = 2
+			}
+			air_base = 1
+		}
+		add_core_of = GER
+	}
+
+	provinces = {
+		374 3271 3326 6218 6263 6298 6325 6349 9238 9264 9347 
+	}
+}

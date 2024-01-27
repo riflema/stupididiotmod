@@ -1,0 +1,21 @@
+state = {
+	id = 833
+	name = "STATE_833"
+	manpower = 1485
+
+	state_category = rural
+
+	history = {
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = FRA
+	}
+
+	provinces = {
+		13052 
+	}
+}

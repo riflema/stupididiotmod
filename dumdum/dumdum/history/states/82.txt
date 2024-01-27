@@ -1,0 +1,25 @@
+state = {
+	id = 82
+	name = "STATE_82"
+	manpower = 1253959
+
+	state_category = large_town
+
+	history = {
+		owner = SCA
+		victory_points = {
+			6103 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		507 3501 6103 6221 6489 9458 11333 11446 11471 13070 
+	}
+}

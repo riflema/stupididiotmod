@@ -1,0 +1,129 @@
+characters = {
+	FLA_83886807 = {
+		name = Jean-Baptiste_Destouvelles
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_6
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			traits = {  }
+		}
+	}
+	FLA_50331944 = {
+		name = Philippe-Joseph_de_Meer_de_Moorsel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_50331944
+			cost = 150
+		}
+	}
+	FLA_67108900 = {
+		name = Nicolas_Wyvekens
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_67108900
+			cost = 150
+		}
+	}
+	FLA_83886684 = {
+		name = Boudewijn_Ledeganck
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_7
+				small = GFX_portrait_europe_generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	FLA_100665112 = {
+		name = Willem_de_Meester
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100665112
+			cost = 150
+		}
+	}
+	FLA_100668065 = {
+		name = Jules_Bethune
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_100668065
+			cost = 150
+		}
+	}
+	FLA_117442149 = {
+		name = Jean-Baptiste_Simons
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_117442149
+			cost = 150
+		}
+	}
+	FLA_150996596 = {
+		name = Jan_Roels
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_150996596
+			cost = 150
+		}
+	}
+	FLA_167776434 = {
+		name = Emmanuel_Quarles_van_Ufford
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_167776434
+			cost = 150
+		}
+	}
+}

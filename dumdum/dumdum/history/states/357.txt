@@ -1,0 +1,27 @@
+state = {
+	id = 357
+	name = "STATE_357"
+	manpower = 2229065
+
+	state_category = town
+
+	history = {
+		owner = FRA
+		victory_points = {
+			3598 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			6657 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FRA
+	}
+
+	provinces = {
+		595 625 629 655 3598 3659 6657 9597 9631 11582 11600 11869 
+	}
+}

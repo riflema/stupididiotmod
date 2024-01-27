@@ -1,0 +1,28 @@
+state = {
+	id = 421
+	name = "STATE_421"
+	manpower = 3841733
+	resources = {
+		tungsten = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			1984 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1984 2040 2072 4954 5041 5097 7944 13236 13237 13238 13240 13241 13242 
+	}
+}

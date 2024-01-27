@@ -1,0 +1,124 @@
+characters = {
+	W77_150999246 = {
+		name = Arcadio_Dizon
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { armor_officer old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	W77_67109422 = {
+		name = Iskandar_Janjalani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_67109422
+			cost = 150
+		}
+	}
+	W77_83887836 = {
+		name = Emilio_Basa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_83887836
+			cost = 150
+		}
+	}
+	W77_83889948 = {
+		name = Mohammad_Pulalun_Kiram_Bacolod
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83889948
+			cost = 150
+		}
+	}
+	W77_100665514 = {
+		name = Manuel_Burgos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_100665514
+			cost = 150
+		}
+	}
+	W77_100666171 = {
+		name = Hermano_Bonifacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_100666171
+			cost = 150
+		}
+	}
+	W77_134218388 = {
+		name = Hermano_Burgos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_134218388
+			cost = 150
+		}
+	}
+	W77_150997519 = {
+		name = Leon_3_Plata
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_150997519
+			cost = 150
+		}
+	}
+}

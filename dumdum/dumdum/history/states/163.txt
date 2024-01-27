@@ -1,0 +1,28 @@
+state = {
+	id = 163
+	name = "STATE_163"
+	manpower = 2770452
+	resources = {
+		aluminium = 8
+		steel = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = HBC
+		victory_points = {
+			10599 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = HBC
+	}
+
+	provinces = {
+		709 751 3766 4854 5205 6782 7420 9724 9746 9747 10233 10303 10599 11669 11714 11731 
+	}
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 91
+	name = "STATE_91"
+	manpower = 1187233
+	resources = {
+		oil = 7
+		steel = 34
+	}
+
+	state_category = large_town
+
+	history = {
+		owner = SCA
+		victory_points = {
+			296 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		221 271 296 322 3287 9239 11221 11253 11374 
+	}
+}

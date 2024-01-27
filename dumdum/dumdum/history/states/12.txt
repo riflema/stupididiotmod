@@ -1,0 +1,25 @@
+state = {
+	id = 12
+	name = "STATE_12"
+	manpower = 3197195
+
+	state_category = megalopolis
+
+	history = {
+		owner = PLC
+		victory_points = {
+			572 6
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		422 462 474 513 572 3412 3430 3457 3470 3496 3511 6429 6435 6509 6520 6557 9520 9533 11441 11503 11543 
+	}
+}

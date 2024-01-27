@@ -1,0 +1,144 @@
+ideas = {
+	country = {
+		BRU_Tuanku_Raja_Ahmad = {
+			allowed = {
+				original_tag = BRU
+			}
+
+			allowed_civil_war = {
+				original_tag = BRU
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		BYZ_Filippos_Anthemiotes = {
+			allowed = {
+				original_tag = BYZ
+			}
+
+			allowed_civil_war = {
+				original_tag = BYZ
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		M15_Dominggus_Palopo = {
+			allowed = {
+				original_tag = M15
+			}
+
+			allowed_civil_war = {
+				original_tag = M15
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		POR_Carlos_de_Trastamara = {
+			allowed = {
+				original_tag = POR
+			}
+
+			allowed_civil_war = {
+				original_tag = POR
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		PRU_nl_Roelof_van_Oranje = {
+			allowed = {
+				original_tag = PRU
+			}
+
+			allowed_civil_war = {
+				original_tag = PRU
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		TUN_Fawzi_al-Qazdughli = {
+			allowed = {
+				original_tag = TUN
+			}
+
+			allowed_civil_war = {
+				original_tag = TUN
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W67_Muabidin_Pasai = {
+			allowed = {
+				original_tag = W67
+			}
+
+			allowed_civil_war = {
+				original_tag = W67
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W78_Antasena_Suryavansha = {
+			allowed = {
+				original_tag = W78
+			}
+
+			allowed_civil_war = {
+				original_tag = W78
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		WAL_Georgios_Anthemiotes = {
+			allowed = {
+				original_tag = WAL
+			}
+
+			allowed_civil_war = {
+				original_tag = WAL
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X98_Abdullah_Selangor = {
+			allowed = {
+				original_tag = X98
+			}
+
+			allowed_civil_war = {
+				original_tag = X98
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+	}
+}

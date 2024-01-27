@@ -1,0 +1,27 @@
+state = {
+	id = 452
+	name = "STATE_452"
+	manpower = 1496471
+	resources = {
+		tungsten = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = ETH
+		victory_points = {
+			12806 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1914 2088 4918 7925 10743 10784 10795 12800 12806 12862 12887 
+	}
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 47
+	name = "STATE_47"
+	manpower = 2657212
+	resources = {
+		oil = 38
+		rubber = 48
+		steel = 33
+		tungsten = 6
+	}
+
+	state_category = large_city
+
+	history = {
+		owner = GCO
+		victory_points = {
+			10879 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			10912 = {
+				naval_base = 1
+			}
+			air_base = 2
+		}
+		add_core_of = GCO
+	}
+
+	provinces = {
+		1981 5317 7915 8050 10736 10767 10823 10849 10879 10912 
+	}
+}

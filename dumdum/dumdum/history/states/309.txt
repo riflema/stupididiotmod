@@ -1,0 +1,28 @@
+state = {
+	id = 309
+	name = "STATE_309"
+	manpower = 5411933
+	resources = {
+		tungsten = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = KOR
+		victory_points = {
+			4052 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 5
+		}
+		add_core_of = KOR
+	}
+
+	provinces = {
+		906 912 978 1003 3912 4052 4107 6963 7070 7155 7171 9790 9795 9918 10065 11775 11828 11835 11896 11915 12040 
+	}
+}

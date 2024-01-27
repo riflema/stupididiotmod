@@ -1,0 +1,30 @@
+state = {
+	id = 337
+	name = "STATE_337"
+	manpower = 687834
+	resources = {
+		tungsten = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			3923 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			9838 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		963 3910 3923 3966 6831 9838 11882 
+	}
+}

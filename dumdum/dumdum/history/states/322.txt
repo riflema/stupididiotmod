@@ -1,0 +1,32 @@
+state = {
+	id = 322
+	name = "STATE_322"
+	manpower = 789523
+	resources = {
+		rubber = 2
+		steel = 5
+		tungsten = 1
+	}
+
+	state_category = town
+
+	history = {
+		owner = BRA
+		victory_points = {
+			10946 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			10419 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = BRA
+	}
+
+	provinces = {
+		4617 5174 5194 5218 8129 8177 8184 8197 8242 10392 10419 10926 10946 11002 12422 
+	}
+}

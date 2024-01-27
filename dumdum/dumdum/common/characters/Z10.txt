@@ -1,0 +1,135 @@
+characters = {
+	Z10_100664084 = {
+		name = Ti-Toorou_Dovi
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+			civilian = {
+				large = GFX_Portrait_asia_generic_land_5
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { trait_reckless }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	Z10_50332759 = {
+		name = Yavala_Loganimoce
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_50332759
+			cost = 150
+		}
+	}
+	Z10_50334721 = {
+		name = Tamavunisa_Sukuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_50334721
+			cost = 150
+		}
+	}
+	Z10_50335102 = {
+		name = Lubati_Tupou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_50335102
+			cost = 150
+		}
+	}
+	Z10_83887325 = {
+		name = Samuel_Banuve
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_83887325
+			cost = 150
+		}
+	}
+	Z10_83888088 = {
+		name = Taltai_Lakeba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_83888088
+			cost = 150
+		}
+	}
+	Z10_83889610 = {
+		name = Ti-Toorou_Tyuienon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_83889610
+			cost = 150
+		}
+	}
+	Z10_100665737 = {
+		name = Yavala_Qaraniqio
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { mass_assault_expert }
+			slot = political_advisor
+			idea_token = i_100665737
+			cost = 150
+		}
+	}
+}

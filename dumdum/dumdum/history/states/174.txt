@@ -1,0 +1,31 @@
+state = {
+	id = 174
+	name = "STATE_174"
+	manpower = 671799
+	resources = {
+		steel = 12
+	}
+
+	state_category = town
+
+	history = {
+		owner = SCA
+		victory_points = {
+			11105 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			3083 = {
+				naval_base = 4
+			}
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		32 67 136 141 165 169 193 204 3009 3013 3025 3083 3117 3119 3125 3137 3161 6009 6033 6047 6066 6078 6108 6138 6141 6144 6146 6156 6163 9056 9073 9094 9104 9129 9160 9163 9166 9167 9183 9194 9219 11033 11043 11066 11076 11105 11138 11141 11144 11172 11199 11210 11211 
+	}
+}

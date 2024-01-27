@@ -1,0 +1,22 @@
+state = {
+	id = 42
+	name = "STATE_42"
+	manpower = 51498
+
+	state_category = town
+
+	history = {
+		owner = SCA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		6196 
+	}
+}

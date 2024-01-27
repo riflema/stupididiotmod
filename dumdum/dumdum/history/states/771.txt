@@ -1,0 +1,21 @@
+state = {
+	id = 771
+	name = "STATE_771"
+	manpower = 65444
+
+	state_category = rural
+
+	history = {
+		owner = SCO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SCO
+	}
+
+	provinces = {
+		1274 4320 7308 12138 12209 
+	}
+}

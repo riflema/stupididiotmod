@@ -1,0 +1,29 @@
+state = {
+	id = 27
+	name = "STATE_27"
+	manpower = 1944547
+
+	state_category = megalopolis
+
+	history = {
+		owner = PLC
+		victory_points = {
+			3320 6
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 9
+			arms_factory = 2
+			dockyard = 1
+			6314 = {
+				naval_base = 0
+			}
+			air_base = 4
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		327 530 3272 3320 3337 3354 6229 6281 6296 6314 6360 6376 6407 9246 9274 9295 9357 9374 9404 9438 9483 9499 9731 11226 11312 11342 11498 
+	}
+}

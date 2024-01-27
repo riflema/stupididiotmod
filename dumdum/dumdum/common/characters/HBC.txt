@@ -1,0 +1,134 @@
+characters = {
+	HBC_83890236 = {
+		name = no_Viggo_dyn_no_Rambo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Thorvald_Stauning
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+	}
+	HBC_67109351 = {
+		name = no_Terje_dyn_no_Aspenes
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_1
+				small = GFX_Portrait_Europe_Generic_navy_1_small
+			}
+			civilian = {
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer old_guard_navy spotter }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			maneuvering_skill = 3
+			coordination_skill = 2
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_67109351
+			cost = 150
+		}
+	}
+	HBC_67109368 = {
+		name = David_Neil
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_67109368
+			cost = 150
+		}
+	}
+	HBC_67110835 = {
+		name = no_Otto_dyn_no_Knudsen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_67110835
+			cost = 150
+		}
+	}
+	HBC_117440904 = {
+		name = Mark_Hamilton-Temple-Blackwood
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_117440904
+			cost = 150
+		}
+	}
+	HBC_117443602 = {
+		name = no_Sverre_dyn_no_Halvorsen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_117443602
+			cost = 150
+		}
+	}
+	HBC_134219236 = {
+		name = Simon_Armour
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_134219236
+			cost = 150
+		}
+	}
+	HBC_134221259 = {
+		name = no_Oyvind_dyn_no_Saeter
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_134221259
+			cost = 150
+		}
+	}
+}

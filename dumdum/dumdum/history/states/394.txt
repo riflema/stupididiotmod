@@ -1,0 +1,27 @@
+state = {
+	id = 394
+	name = "STATE_394"
+	manpower = 1284658
+	resources = {
+		rubber = 2
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X15
+		victory_points = {
+			10267 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		1014 1142 1330 1417 3651 4147 4293 4336 7122 7254 7382 7441 10154 10182 10223 10267 10283 12090 12127 12197 12256 12267 12284 
+	}
+}

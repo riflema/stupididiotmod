@@ -1,0 +1,29 @@
+state = {
+	id = 56
+	name = "STATE_56"
+	manpower = 21189
+	resources = {
+		aluminium = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SCA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			13272 = {
+				naval_base = 0
+			}
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		13272 
+	}
+}

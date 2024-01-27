@@ -1,0 +1,31 @@
+state = {
+	id = 205
+	name = "STATE_205"
+	manpower = 1697060
+	resources = {
+		tungsten = 9
+	}
+
+	state_category = town
+
+	history = {
+		owner = GCO
+		victory_points = {
+			7936 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			7936 = {
+				naval_base = 5
+			}
+			air_base = 1
+		}
+		add_core_of = GCO
+	}
+
+	provinces = {
+		2079 7936 7991 10846 
+	}
+}

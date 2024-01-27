@@ -1,0 +1,34 @@
+state = {
+	id = 87
+	name = "STATE_87"
+	manpower = 16685870
+	resources = {
+		chromium = 16
+		steel = 22
+		tungsten = 1
+	}
+
+	state_category = large_town
+
+	history = {
+		owner = W68
+		victory_points = {
+			4140 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			10068 = {
+				naval_base = 8
+			}
+			air_base = 1
+		}
+		add_core_of = W68
+	}
+
+	provinces = {
+		814 828 881 900 934 952 972 1052 1134 1137 1590 3814 3828 3830 3881 3900 3955 3978 4140 4514 6852 6898 6904 6937 6969 7575 7633 9768 9776 9788 9843 9873 9905 9927 10068 10331 10397 10426 10480 10499 11761 11801 11815 11822 11855 12026 12043 
+	}
+}

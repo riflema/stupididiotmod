@@ -1,0 +1,30 @@
+state = {
+	id = 403
+	name = "STATE_403"
+	manpower = 1702109
+	resources = {
+		tungsten = 4
+	}
+
+	state_category = rural
+
+	history = {
+		owner = Z03
+		victory_points = {
+			5128 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			5128 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = Z03
+	}
+
+	provinces = {
+		5128 5222 8188 
+	}
+}

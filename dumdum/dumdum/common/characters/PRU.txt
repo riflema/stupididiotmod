@@ -1,0 +1,140 @@
+characters = {
+	PRU_83887766 = {
+		name = nl_Roelof_van_Oranje
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	PRU_67112932 = {
+		name = Custodio_de_Carvalho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_67112932
+			cost = 150
+		}
+	}
+	PRU_83886185 = {
+		name = Isaias_de_Castro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_83886185
+			cost = 150
+		}
+	}
+	PRU_83886380 = {
+		name = nl_Lodewijk_nl_Blaauw
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_83886380
+			cost = 150
+		}
+	}
+	PRU_100663593 = {
+		name = nl_Priit_nl_Rijnders
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_100663593
+			cost = 150
+		}
+	}
+	PRU_100664368 = {
+		name = nl_Bram_dyn_nl_Conover
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { mobile_warfare_expert }
+			slot = political_advisor
+			idea_token = i_100664368
+			cost = 150
+		}
+	}
+	PRU_100666863 = {
+		name = nl_Vaast_van_Oranje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_100666863
+			cost = 150
+		}
+	}
+	PRU_100666955 = {
+		name = Candido_Osorio_2
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_100666955
+			cost = 150
+		}
+	}
+	PRU_117440572 = {
+		name = Venceslau_Galvao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_117440572
+			cost = 150
+		}
+	}
+	PRU_134221205 = {
+		name = Emilio_2_Costa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_134221205
+			cost = 150
+		}
+	}
+}

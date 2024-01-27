@@ -1,0 +1,31 @@
+state = {
+	id = 519
+	name = "STATE_519"
+	manpower = 992471
+	resources = {
+		steel = 2
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			10928 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10833 = {
+				naval_base = 0
+			}
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1905 1964 1966 2020 2063 4909 5065 5068 8094 8164 10777 10818 10833 10891 10921 10928 12759 12814 12840 12991 
+	}
+}

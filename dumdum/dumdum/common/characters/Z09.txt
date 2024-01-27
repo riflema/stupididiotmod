@@ -1,0 +1,126 @@
+characters = {
+	Z09_1001 = {
+		name = The_Council
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+	}
+	Z09_67110714 = {
+		name = Isidro_Aguirre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_67110714
+			cost = 150
+		}
+	}
+	Z09_67110828 = {
+		name = Isidro_Reparez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_67110828
+			cost = 150
+		}
+	}
+	Z09_83886833 = {
+		name = Juan_Bautista_Gil
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_83886833
+			cost = 150
+		}
+	}
+	Z09_100663868 = {
+		name = Felix_Villota
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_100663868
+			cost = 150
+		}
+	}
+	Z09_100665390 = {
+		name = Claudio_Maroto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_100665390
+			cost = 150
+		}
+	}
+	Z09_117441313 = {
+		name = Baldomero_Fajardo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_117441313
+			cost = 150
+		}
+	}
+	Z09_117442105 = {
+		name = Felipe_de_la_Fuente
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_117442105
+			cost = 150
+		}
+	}
+	Z09_134221481 = {
+		name = Leopoldo_Lorenzana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_134221481
+			cost = 150
+		}
+	}
+}

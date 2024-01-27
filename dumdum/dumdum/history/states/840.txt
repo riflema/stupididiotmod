@@ -1,0 +1,20 @@
+state = {
+	id = 840
+	name = "STATE_840"
+	manpower = 6556
+
+	state_category = rural
+
+	history = {
+		owner = PAK
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+
+	provinces = {
+		4337 12266 
+	}
+}

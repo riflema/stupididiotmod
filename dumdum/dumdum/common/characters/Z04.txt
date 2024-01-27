@@ -1,0 +1,112 @@
+characters = {
+	Z04_50332495 = {
+		name = Felipe_de_la_Fuente
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	Z04_50332201 = {
+		name = Arsenio_de_Sentmenat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_50332201
+			cost = 150
+		}
+	}
+	Z04_67109661 = {
+		name = Celestino_de_Carvajal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_67109661
+			cost = 150
+		}
+	}
+	Z04_67110994 = {
+		name = Miguel_Ortiz_de_la_Riva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_67110994
+			cost = 150
+		}
+	}
+	Z04_83888880 = {
+		name = Fernando_Alcala-Zamora
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_83888880
+			cost = 150
+		}
+	}
+	Z04_100667897 = {
+		name = Juan_Bautista_Ortega
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_100667897
+			cost = 150
+		}
+	}
+	Z04_134218729 = {
+		name = Bernardo_Acuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_134218729
+			cost = 150
+		}
+	}
+	Z04_150997447 = {
+		name = Emilio_Aranda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_150997447
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,140 @@
+characters = {
+	BRU_67109222 = {
+		name = Aziz_bin_Nik
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+	}
+	BRU_33557332 = {
+		name = Tuanku_Raja_Ahmad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_33557332
+			cost = 150
+		}
+	}
+	BRU_50335103 = {
+		name = Idris_Raja_Inu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_50335103
+			cost = 150
+		}
+	}
+	BRU_67110902 = {
+		name = Safiuddin_Murshidul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_67110902
+			cost = 150
+		}
+	}
+	BRU_83888351 = {
+		name = Safiuddin_Muadzam
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_83888351
+			cost = 150
+		}
+	}
+	BRU_83890404 = {
+		name = Shahabuddin_Raja_Ahmad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_83890404
+			cost = 150
+		}
+	}
+	BRU_83890632 = {
+		name = Jalil_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_83890632
+			cost = 150
+		}
+	}
+	BRU_100664867 = {
+		name = Safiuddin_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_100664867
+			cost = 150
+		}
+	}
+	BRU_100667596 = {
+		name = Jalil_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_100667596
+			cost = 150
+		}
+	}
+	BRU_117442938 = {
+		name = Aziz_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_117442938
+			cost = 150
+		}
+	}
+}
